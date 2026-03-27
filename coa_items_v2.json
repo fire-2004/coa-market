@@ -1,1522 +1,383 @@
 {
     "Equipment": [
-        {
-            "name": "Broken Wooden Sword",
-            "image_url": "https://www.curseofaros.wiki/images/1/15/Broken_Wooden_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Sword",
-            "image_url": "https://www.curseofaros.wiki/images/4/47/Bronze_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Sword",
-            "image_url": "https://www.curseofaros.wiki/images/4/42/Iron_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Rusty Steel Sword",
-            "image_url": "https://www.curseofaros.wiki/images/9/9d/Rusty_Steel_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Sword",
-            "image_url": "https://www.curseofaros.wiki/images/4/40/Steel_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sharper Steel Sword",
-            "image_url": "https://www.curseofaros.wiki/images/d/d3/Sharper_Steel_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Sword",
-            "image_url": "https://www.curseofaros.wiki/images/c/cc/Crimsteel_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ruby Sword",
-            "image_url": "https://www.curseofaros.wiki/images/f/f8/Ruby_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sapphire Sword",
-            "image_url": "https://www.curseofaros.wiki/images/e/e7/Sapphire_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arosite Sword",
-            "image_url": "https://www.curseofaros.wiki/images/b/b3/Arosite_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Sword",
-            "image_url": "https://www.curseofaros.wiki/images/a/aa/Mythan_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sharper Mythan Sword",
-            "image_url": "https://www.curseofaros.wiki/images/c/c0/Sharper_Mythan_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Sword",
-            "image_url": "https://www.curseofaros.wiki/images/7/74/Cobalt_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Chaotic Mythan Sword",
-            "image_url": "https://www.curseofaros.wiki/images/f/f1/Chaotic_Mythan_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Sword",
-            "image_url": "https://www.curseofaros.wiki/images/a/a8/Varaxite_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Blade",
-            "image_url": "https://www.curseofaros.wiki/images/6/65/Glacial_Blade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Nature's Blade",
-            "image_url": "https://www.curseofaros.wiki/images/9/9f/Nature%27s_Blade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spectral Sword",
-            "image_url": "https://www.curseofaros.wiki/images/3/38/Spectral_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Pumpking Sword",
-            "image_url": "https://www.curseofaros.wiki/images/1/15/Pumpking_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Phantom Sword",
-            "image_url": "https://www.curseofaros.wiki/images/d/db/Phantom_Sword_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ancient Scimitar",
-            "image_url": "https://www.curseofaros.wiki/images/1/16/Ancient_Scimitar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Shield",
-            "image_url": "https://www.curseofaros.wiki/images/3/32/Bronze_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Shield",
-            "image_url": "https://www.curseofaros.wiki/images/c/c5/Iron_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Shield",
-            "image_url": "https://www.curseofaros.wiki/images/b/bc/Steel_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Shield",
-            "image_url": "https://www.curseofaros.wiki/images/1/12/Crimsteel_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sandstone Shield",
-            "image_url": "https://www.curseofaros.wiki/images/5/51/Sandstone_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Pumpking Shield",
-            "image_url": "https://www.curseofaros.wiki/images/c/c4/Pumpking_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Scorpion Shield",
-            "image_url": "https://www.curseofaros.wiki/images/7/75/Scorpion_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Shield",
-            "image_url": "https://www.curseofaros.wiki/images/e/eb/Mythan_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Shield",
-            "image_url": "https://www.curseofaros.wiki/images/a/a3/Cobalt_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Shield",
-            "image_url": "https://www.curseofaros.wiki/images/f/fa/Varaxite_Shield_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Shield",
-            "image_url": "https://www.curseofaros.wiki/images/8/82/Deadrock_Shield_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Ancient Shield",
-            "image_url": "https://www.curseofaros.wiki/images/4/42/Ancient_Shield_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Bronze Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/d/de/Bronze_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/7/79/Iron_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/a/a4/Steel_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/0/02/Crimsteel_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/6/6e/Mythan_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/5/5d/Cobalt_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/3/31/Varaxite_Pickaxe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Magic Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/4/4a/Magic_Pickaxe_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Ancient Pickaxe",
-            "image_url": "https://www.curseofaros.wiki/images/c/ce/Ancient_Pickaxe_m.png",
-            "price": 22000000
-        },
-        {
-            "name": "Bronze Axe",
-            "image_url": "https://www.curseofaros.wiki/images/1/10/Bronze_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Axe",
-            "image_url": "https://www.curseofaros.wiki/images/8/86/Iron_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Axe",
-            "image_url": "https://www.curseofaros.wiki/images/a/ae/Steel_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Axe",
-            "image_url": "https://www.curseofaros.wiki/images/d/d3/Crimsteel_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Axe",
-            "image_url": "https://www.curseofaros.wiki/images/0/03/Mythan_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Axe",
-            "image_url": "https://www.curseofaros.wiki/images/4/47/Cobalt_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Axe",
-            "image_url": "https://www.curseofaros.wiki/images/4/4d/Varaxite_Axe_m.png",
-            "price": 0
-        },
-        {
-            "name": "Magic Axe",
-            "image_url": "https://www.curseofaros.wiki/images/6/6e/Magic_Axe_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Ancient Axe",
-            "image_url": "https://www.curseofaros.wiki/images/7/7b/Ancient_Axe_m.png",
-            "price": 22000000
-        },
-        {
-            "name": "Bronze Rod",
-            "image_url": "https://www.curseofaros.wiki/images/1/1c/Bronze_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Rod",
-            "image_url": "https://www.curseofaros.wiki/images/a/ac/Iron_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Rod",
-            "image_url": "https://www.curseofaros.wiki/images/a/a9/Steel_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Rod",
-            "image_url": "https://www.curseofaros.wiki/images/2/2e/Crimsteel_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Rod",
-            "image_url": "https://www.curseofaros.wiki/images/d/d3/Mythan_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Rod",
-            "image_url": "https://www.curseofaros.wiki/images/2/20/Cobalt_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Rod",
-            "image_url": "https://www.curseofaros.wiki/images/6/6a/Varaxite_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Magic Rod",
-            "image_url": "https://www.curseofaros.wiki/images/7/74/Magic_Rod_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Ancient Rod",
-            "image_url": "https://www.curseofaros.wiki/images/1/19/Ancient_Rod_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Spade",
-            "image_url": "https://www.curseofaros.wiki/images/1/14/Iron_Spade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Spade",
-            "image_url": "https://www.curseofaros.wiki/images/3/34/Crimsteel_Spade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Spade",
-            "image_url": "https://www.curseofaros.wiki/images/4/43/Mythan_Spade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Golemite Spade",
-            "image_url": "https://www.curseofaros.wiki/images/e/ea/Golemite_Spade_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ancient Spade",
-            "image_url": "https://www.curseofaros.wiki/images/d/d8/Ancient_Spade_m.png",
-            "price": 1500000
-        },
-        {
-            "name": "Bronze Cap",
-            "image_url": "https://www.curseofaros.wiki/images/b/b9/Bronze_Cap_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Cap",
-            "image_url": "https://www.curseofaros.wiki/images/7/78/Iron_Cap_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Cap",
-            "image_url": "https://www.curseofaros.wiki/images/8/8a/Steel_Cap_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Cap",
-            "image_url": "https://www.curseofaros.wiki/images/0/0c/Crimsteel_Cap_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Helm",
-            "image_url": "https://www.curseofaros.wiki/images/1/1a/Crimsteel_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ruby Helm",
-            "image_url": "https://www.curseofaros.wiki/images/6/64/Ruby_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sapphire Helm",
-            "image_url": "https://www.curseofaros.wiki/images/b/b2/Sapphire_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arosite Helm",
-            "image_url": "https://www.curseofaros.wiki/images/2/2e/Arosite_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Helm",
-            "image_url": "https://www.curseofaros.wiki/images/a/a3/Mythan_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Helm",
-            "image_url": "https://www.curseofaros.wiki/images/5/56/Cobalt_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Pumpking Helm",
-            "image_url": "https://www.curseofaros.wiki/images/2/26/Pumpking_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Helm",
-            "image_url": "https://www.curseofaros.wiki/images/9/94/Varaxite_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Helm",
-            "image_url": "https://www.curseofaros.wiki/images/8/86/Deadrock_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Helm",
-            "image_url": "https://www.curseofaros.wiki/images/e/e0/Glacial_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spectral Helm",
-            "image_url": "https://www.curseofaros.wiki/images/9/97/Spectral_Helm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Phantom Helm",
-            "image_url": "https://www.curseofaros.wiki/images/0/01/Phantom_Helm_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Saving Grace",
-            "image_url": "https://www.curseofaros.wiki/images/c/c0/Saving_Grace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bat Amulet",
-            "image_url": "https://www.curseofaros.wiki/images/e/ec/Bat_Amulet_m.png",
-            "price": 0
-        },
-        {
-            "name": "Nature Amulet",
-            "image_url": "https://www.curseofaros.wiki/images/1/17/Nature_Amulet_m.png",
-            "price": 0
-        },
-        {
-            "name": "Amulet of Focus",
-            "image_url": "https://www.curseofaros.wiki/images/8/81/Amulet_of_Focus_m.png",
-            "price": 0
-        },
-        {
-            "name": "Prospector's Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/8/88/Prospector%27s_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ruby Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/4/4d/Ruby_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sapphire Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/2/23/Sapphire_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arosite Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/b/b8/Arosite_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Emerald Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/1/18/Emerald_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Magnetite Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/4/46/Magnetite_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Battle Necklace",
-            "image_url": "https://www.curseofaros.wiki/images/1/15/Battle_Necklace_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Chainbody",
-            "image_url": "https://www.curseofaros.wiki/images/2/21/Bronze_Chainbody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/2/23/Bronze_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Chainbody",
-            "image_url": "https://www.curseofaros.wiki/images/b/bd/Iron_Chainbody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/3/3d/Iron_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Chainbody",
-            "image_url": "https://www.curseofaros.wiki/images/e/ec/Steel_Chainbody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/9/9c/Steel_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Chainbody",
-            "image_url": "https://www.curseofaros.wiki/images/6/60/Crimsteel_Chainbody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/f/fe/Crimsteel_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ruby Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/a/ad/Ruby_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sapphire Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/b/b9/Sapphire_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arosite Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/0/08/Arosite_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/8/88/Mythan_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/8/88/Cobalt_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Platebody",
-            "image_url": "https://www.curseofaros.wiki/images/f/fe/Varaxite_Platebody_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Body",
-            "image_url": "https://www.curseofaros.wiki/images/b/ba/Deadrock_Body_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Body",
-            "image_url": "https://www.curseofaros.wiki/images/5/57/Glacial_Body_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spectral Breastplate",
-            "image_url": "https://www.curseofaros.wiki/images/f/fb/Spectral_Breastplate_m.png",
-            "price": 0
-        },
-        {
-            "name": "Phantom Breastplate",
-            "image_url": "https://www.curseofaros.wiki/images/9/9c/Phantom_Breastplate_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Bronze Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/7/7d/Bronze_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/c/cb/Iron_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/7/7b/Steel_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/6/67/Crimsteel_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/4/4d/Gold_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Scorpion Gloves",
-            "image_url": "https://www.curseofaros.wiki/images/f/f9/Scorpion_Gloves_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/f/f5/Mythan_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Raptor Gloves",
-            "image_url": "https://www.curseofaros.wiki/images/4/47/Raptor_Gloves_m.png",
-            "price": 0
-        },
-        {
-            "name": "Desert Raptor Gloves",
-            "image_url": "https://www.curseofaros.wiki/images/9/9e/Desert_Raptor_Gloves_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/5/5d/Cobalt_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ice Raptor Gloves",
-            "image_url": "https://www.curseofaros.wiki/images/7/76/Ice_Raptor_Gloves_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/a/a7/Varaxite_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/8/8f/Deadrock_Gauntlets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cactus Gloves",
-            "image_url": "https://www.curseofaros.wiki/images/3/3e/Cactus_Gloves_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Gauntlets",
-            "image_url": "https://www.curseofaros.wiki/images/6/65/Glacial_Gauntlets_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Torment of Glacii",
-            "image_url": "https://www.curseofaros.wiki/images/f/fb/Torment_of_Glacii_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ring of Treasure",
-            "image_url": "https://www.curseofaros.wiki/images/2/24/Ring_of_Treasure_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ring of Sweetness",
-            "image_url": "https://www.curseofaros.wiki/images/e/e2/Ring_of_Sweetness_m.png",
-            "price": 0
-        },
-        {
-            "name": "Nature Ring",
-            "image_url": "https://www.curseofaros.wiki/images/1/1b/Nature_Ring_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bat Ring",
-            "image_url": "https://www.curseofaros.wiki/images/f/f8/Bat_Ring_m.png",
-            "price": 0
-        },
-        {
-            "name": "Ring of Might",
-            "image_url": "https://www.curseofaros.wiki/images/3/3e/Ring_of_Might_m.png",
-            "price": 0
-        },
-        {
-            "name": "Infernal Ring",
-            "image_url": "https://www.curseofaros.wiki/images/e/e5/Infernal_Ring_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cactus Ring",
-            "image_url": "https://www.curseofaros.wiki/images/a/a4/Cactus_Ring_m.png",
-            "price": 0
-        },
-        {
-            "name": "Snake Charm",
-            "image_url": "https://www.curseofaros.wiki/images/9/99/Snake_Charm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/6/6c/Bronze_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/a/a4/Iron_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/2/21/Steel_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/d/d9/Crimsteel_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/a/a7/Gold_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/a/ae/Mythan_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/1/1e/Cobalt_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/4/43/Varaxite_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Legs",
-            "image_url": "https://www.curseofaros.wiki/images/a/a3/Deadrock_Legs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Legs",
-            "image_url": "https://www.curseofaros.wiki/images/b/bc/Glacial_Legs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spectral Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/4/49/Spectral_Platelegs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Phantom Platelegs",
-            "image_url": "https://www.curseofaros.wiki/images/4/4d/Phantom_Platelegs_m.png",
-            "price": 0
-        },
-        
-        {
-            "name": "Bronze Boots",
-            "image_url": "https://www.curseofaros.wiki/images/4/48/Bronze_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Boots",
-            "image_url": "https://www.curseofaros.wiki/images/6/6f/Iron_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Boots",
-            "image_url": "https://www.curseofaros.wiki/images/1/16/Steel_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Boots",
-            "image_url": "https://www.curseofaros.wiki/images/2/2e/Crimsteel_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Boots",
-            "image_url": "https://www.curseofaros.wiki/images/5/50/Gold_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Boots",
-            "image_url": "https://www.curseofaros.wiki/images/2/28/Mythan_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Boots",
-            "image_url": "https://www.curseofaros.wiki/images/5/5a/Cobalt_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Boots",
-            "image_url": "https://www.curseofaros.wiki/images/8/83/Varaxite_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deadrock Boots",
-            "image_url": "https://www.curseofaros.wiki/images/f/fa/Deadrock_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Glacial Boots",
-            "image_url": "https://www.curseofaros.wiki/images/e/ef/Glacial_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spectral Boots",
-            "image_url": "https://www.curseofaros.wiki/images/3/36/Spectral_Boots_m.png",
-            "price": 0
-        },
-        {
-            "name": "Phantom Boots",
-            "image_url": "https://www.curseofaros.wiki/images/c/c1/Phantom_Boots_m.png",
-            "price": 0
-        },
-        
-        
-        {
-            "name": "Howler's Cape",
-            "image_url": "https://www.curseofaros.wiki/images/d/de/Howler%27s_Cape_m.png",
-            "price": 0
-        },
-        {
-            "name": "Infernal Hammer",
-            "image_url": "https://www.curseofaros.wiki/images/3/3c/Infernal_Hammer_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bronze Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/c/cc/Bronze_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/5/52/Iron_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/d/dd/Steel_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/0/04/Crimsteel_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/e/ea/Mythan_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cobalt Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/c/c3/Cobalt_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Varaxite Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/5/5c/Varaxite_Secateurs_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bryomera Secateurs",
-            "image_url": "https://www.curseofaros.wiki/images/a/a8/Bryomera_Secateurs_m.png",
-            "price": 90000000
-        }
+        {"name":"Broken Wooden Sword","image_url":"https://www.curseofaros.wiki/images/1/15/Broken_Wooden_Sword_m.png","price":0},
+        {"name":"Bronze Sword","image_url":"https://www.curseofaros.wiki/images/4/47/Bronze_Sword_m.png","price":0},
+        {"name":"Iron Sword","image_url":"https://www.curseofaros.wiki/images/4/42/Iron_Sword_m.png","price":0},
+        {"name":"Rusty Steel Sword","image_url":"https://www.curseofaros.wiki/images/9/9d/Rusty_Steel_Sword_m.png","price":0},
+        {"name":"Steel Sword","image_url":"https://www.curseofaros.wiki/images/4/40/Steel_Sword_m.png","price":0},
+        {"name":"Sharper Steel Sword","image_url":"https://www.curseofaros.wiki/images/d/d3/Sharper_Steel_Sword_m.png","price":0},
+        {"name":"Crimsteel Sword","image_url":"https://www.curseofaros.wiki/images/c/cc/Crimsteel_Sword_m.png","price":0},
+        {"name":"Ruby Sword","image_url":"https://www.curseofaros.wiki/images/f/f8/Ruby_Sword_m.png","price":0},
+        {"name":"Sapphire Sword","image_url":"https://www.curseofaros.wiki/images/e/e7/Sapphire_Sword_m.png","price":0},
+        {"name":"Arosite Sword","image_url":"https://www.curseofaros.wiki/images/b/b3/Arosite_Sword_m.png","price":0},
+        {"name":"Mythan Sword","image_url":"https://www.curseofaros.wiki/images/a/aa/Mythan_Sword_m.png","price":0},
+        {"name":"Sharper Mythan Sword","image_url":"https://www.curseofaros.wiki/images/c/c0/Sharper_Mythan_Sword_m.png","price":0},
+        {"name":"Cobalt Sword","image_url":"https://www.curseofaros.wiki/images/7/74/Cobalt_Sword_m.png","price":0},
+        {"name":"Chaotic Mythan Sword","image_url":"https://www.curseofaros.wiki/images/f/f1/Chaotic_Mythan_Sword_m.png","price":0},
+        {"name":"Varaxite Sword","image_url":"https://www.curseofaros.wiki/images/a/a8/Varaxite_Sword_m.png","price":0},
+        {"name":"Glacial Blade","image_url":"https://www.curseofaros.wiki/images/6/65/Glacial_Blade_m.png","price":0},
+        {"name":"Nature's Blade","image_url":"https://www.curseofaros.wiki/images/9/9f/Nature%27s_Blade_m.png","price":0},
+        {"name":"Spectral Sword","image_url":"https://www.curseofaros.wiki/images/3/38/Spectral_Sword_m.png","price":0},
+        {"name":"Pumpking Sword","image_url":"https://www.curseofaros.wiki/images/1/15/Pumpking_Sword_m.png","price":0},
+        {"name":"Phantom Sword","image_url":"https://www.curseofaros.wiki/images/d/db/Phantom_Sword_m.png","price":0},
+        {"name":"Ancient Scimitar","image_url":"https://www.curseofaros.wiki/images/1/16/Ancient_Scimitar_m.png","price":0},
+        {"name":"Bronze Shield","image_url":"https://www.curseofaros.wiki/images/3/32/Bronze_Shield_m.png","price":0},
+        {"name":"Iron Shield","image_url":"https://www.curseofaros.wiki/images/c/c5/Iron_Shield_m.png","price":0},
+        {"name":"Steel Shield","image_url":"https://www.curseofaros.wiki/images/b/bc/Steel_Shield_m.png","price":0},
+        {"name":"Crimsteel Shield","image_url":"https://www.curseofaros.wiki/images/1/12/Crimsteel_Shield_m.png","price":0},
+        {"name":"Sandstone Shield","image_url":"https://www.curseofaros.wiki/images/5/51/Sandstone_Shield_m.png","price":0},
+        {"name":"Pumpking Shield","image_url":"https://www.curseofaros.wiki/images/c/c4/Pumpking_Shield_m.png","price":0},
+        {"name":"Scorpion Shield","image_url":"https://www.curseofaros.wiki/images/7/75/Scorpion_Shield_m.png","price":0},
+        {"name":"Mythan Shield","image_url":"https://www.curseofaros.wiki/images/e/eb/Mythan_Shield_m.png","price":0},
+        {"name":"Cobalt Shield","image_url":"https://www.curseofaros.wiki/images/a/a3/Cobalt_Shield_m.png","price":0},
+        {"name":"Varaxite Shield","image_url":"https://www.curseofaros.wiki/images/f/fa/Varaxite_Shield_m.png","price":0},
+        {"name":"Deadrock Shield","image_url":"https://www.curseofaros.wiki/images/8/82/Deadrock_Shield_m.png","price":0},
+        {"name":"Ancient Shield","image_url":"https://www.curseofaros.wiki/images/4/42/Ancient_Shield_m.png","price":0},
+        {"name":"Bronze Pickaxe","image_url":"https://www.curseofaros.wiki/images/d/de/Bronze_Pickaxe_m.png","price":0},
+        {"name":"Iron Pickaxe","image_url":"https://www.curseofaros.wiki/images/7/79/Iron_Pickaxe_m.png","price":0},
+        {"name":"Steel Pickaxe","image_url":"https://www.curseofaros.wiki/images/a/a4/Steel_Pickaxe_m.png","price":0},
+        {"name":"Crimsteel Pickaxe","image_url":"https://www.curseofaros.wiki/images/0/02/Crimsteel_Pickaxe_m.png","price":0},
+        {"name":"Mythan Pickaxe","image_url":"https://www.curseofaros.wiki/images/6/6e/Mythan_Pickaxe_m.png","price":0},
+        {"name":"Cobalt Pickaxe","image_url":"https://www.curseofaros.wiki/images/5/5d/Cobalt_Pickaxe_m.png","price":0},
+        {"name":"Varaxite Pickaxe","image_url":"https://www.curseofaros.wiki/images/3/31/Varaxite_Pickaxe_m.png","price":0},
+        {"name":"Magic Pickaxe","image_url":"https://www.curseofaros.wiki/images/4/4a/Magic_Pickaxe_m.png","price":0},
+        {"name":"Ancient Pickaxe","image_url":"https://www.curseofaros.wiki/images/c/ce/Ancient_Pickaxe_m.png","price":22000000},
+        {"name":"Bronze Axe","image_url":"https://www.curseofaros.wiki/images/1/10/Bronze_Axe_m.png","price":0},
+        {"name":"Iron Axe","image_url":"https://www.curseofaros.wiki/images/8/86/Iron_Axe_m.png","price":0},
+        {"name":"Steel Axe","image_url":"https://www.curseofaros.wiki/images/a/ae/Steel_Axe_m.png","price":0},
+        {"name":"Crimsteel Axe","image_url":"https://www.curseofaros.wiki/images/d/d3/Crimsteel_Axe_m.png","price":0},
+        {"name":"Mythan Axe","image_url":"https://www.curseofaros.wiki/images/0/03/Mythan_Axe_m.png","price":0},
+        {"name":"Cobalt Axe","image_url":"https://www.curseofaros.wiki/images/4/47/Cobalt_Axe_m.png","price":0},
+        {"name":"Varaxite Axe","image_url":"https://www.curseofaros.wiki/images/4/4d/Varaxite_Axe_m.png","price":0},
+        {"name":"Magic Axe","image_url":"https://www.curseofaros.wiki/images/6/6e/Magic_Axe_m.png","price":0},
+        {"name":"Ancient Axe","image_url":"https://www.curseofaros.wiki/images/7/7b/Ancient_Axe_m.png","price":22000000},
+        {"name":"Bronze Rod","image_url":"https://www.curseofaros.wiki/images/1/1c/Bronze_Rod_m.png","price":0},
+        {"name":"Iron Rod","image_url":"https://www.curseofaros.wiki/images/a/ac/Iron_Rod_m.png","price":0},
+        {"name":"Steel Rod","image_url":"https://www.curseofaros.wiki/images/a/a9/Steel_Rod_m.png","price":0},
+        {"name":"Crimsteel Rod","image_url":"https://www.curseofaros.wiki/images/2/2e/Crimsteel_Rod_m.png","price":0},
+        {"name":"Mythan Rod","image_url":"https://www.curseofaros.wiki/images/d/d3/Mythan_Rod_m.png","price":0},
+        {"name":"Cobalt Rod","image_url":"https://www.curseofaros.wiki/images/2/20/Cobalt_Rod_m.png","price":0},
+        {"name":"Varaxite Rod","image_url":"https://www.curseofaros.wiki/images/6/6a/Varaxite_Rod_m.png","price":0},
+        {"name":"Magic Rod","image_url":"https://www.curseofaros.wiki/images/7/74/Magic_Rod_m.png","price":0},
+        {"name":"Ancient Rod","image_url":"https://www.curseofaros.wiki/images/1/19/Ancient_Rod_m.png","price":0},
+        {"name":"Iron Spade","image_url":"https://www.curseofaros.wiki/images/1/14/Iron_Spade_m.png","price":0},
+        {"name":"Crimsteel Spade","image_url":"https://www.curseofaros.wiki/images/3/34/Crimsteel_Spade_m.png","price":0},
+        {"name":"Mythan Spade","image_url":"https://www.curseofaros.wiki/images/4/43/Mythan_Spade_m.png","price":0},
+        {"name":"Golemite Spade","image_url":"https://www.curseofaros.wiki/images/e/ea/Golemite_Spade_m.png","price":0},
+        {"name":"Ancient Spade","image_url":"https://www.curseofaros.wiki/images/d/d8/Ancient_Spade_m.png","price":1500000},
+        {"name":"Bronze Cap","image_url":"https://www.curseofaros.wiki/images/b/b9/Bronze_Cap_m.png","price":0},
+        {"name":"Iron Cap","image_url":"https://www.curseofaros.wiki/images/7/78/Iron_Cap_m.png","price":0},
+        {"name":"Steel Cap","image_url":"https://www.curseofaros.wiki/images/8/8a/Steel_Cap_m.png","price":0},
+        {"name":"Crimsteel Cap","image_url":"https://www.curseofaros.wiki/images/0/0c/Crimsteel_Cap_m.png","price":0},
+        {"name":"Crimsteel Helm","image_url":"https://www.curseofaros.wiki/images/1/1a/Crimsteel_Helm_m.png","price":0},
+        {"name":"Ruby Helm","image_url":"https://www.curseofaros.wiki/images/6/64/Ruby_Helm_m.png","price":0},
+        {"name":"Sapphire Helm","image_url":"https://www.curseofaros.wiki/images/b/b2/Sapphire_Helm_m.png","price":0},
+        {"name":"Arosite Helm","image_url":"https://www.curseofaros.wiki/images/2/2e/Arosite_Helm_m.png","price":0},
+        {"name":"Mythan Helm","image_url":"https://www.curseofaros.wiki/images/a/a3/Mythan_Helm_m.png","price":0},
+        {"name":"Cobalt Helm","image_url":"https://www.curseofaros.wiki/images/5/56/Cobalt_Helm_m.png","price":0},
+        {"name":"Pumpking Helm","image_url":"https://www.curseofaros.wiki/images/2/26/Pumpking_Helm_m.png","price":0},
+        {"name":"Varaxite Helm","image_url":"https://www.curseofaros.wiki/images/9/94/Varaxite_Helm_m.png","price":0},
+        {"name":"Deadrock Helm","image_url":"https://www.curseofaros.wiki/images/8/86/Deadrock_Helm_m.png","price":0},
+        {"name":"Glacial Helm","image_url":"https://www.curseofaros.wiki/images/e/e0/Glacial_Helm_m.png","price":0},
+        {"name":"Spectral Helm","image_url":"https://www.curseofaros.wiki/images/9/97/Spectral_Helm_m.png","price":0},
+        {"name":"Phantom Helm","image_url":"https://www.curseofaros.wiki/images/0/01/Phantom_Helm_m.png","price":0},
+        {"name":"Saving Grace","image_url":"https://www.curseofaros.wiki/images/c/c0/Saving_Grace_m.png","price":0},
+        {"name":"Bat Amulet","image_url":"https://www.curseofaros.wiki/images/e/ec/Bat_Amulet_m.png","price":0},
+        {"name":"Nature Amulet","image_url":"https://www.curseofaros.wiki/images/1/17/Nature_Amulet_m.png","price":0},
+        {"name":"Amulet of Focus","image_url":"https://www.curseofaros.wiki/images/8/81/Amulet_of_Focus_m.png","price":0},
+        {"name":"Prospector's Necklace","image_url":"https://www.curseofaros.wiki/images/8/88/Prospector%27s_Necklace_m.png","price":0},
+        {"name":"Ruby Necklace","image_url":"https://www.curseofaros.wiki/images/4/4d/Ruby_Necklace_m.png","price":0},
+        {"name":"Sapphire Necklace","image_url":"https://www.curseofaros.wiki/images/2/23/Sapphire_Necklace_m.png","price":0},
+        {"name":"Arosite Necklace","image_url":"https://www.curseofaros.wiki/images/b/b8/Arosite_Necklace_m.png","price":0},
+        {"name":"Emerald Necklace","image_url":"https://www.curseofaros.wiki/images/1/18/Emerald_Necklace_m.png","price":0},
+        {"name":"Magnetite Necklace","image_url":"https://www.curseofaros.wiki/images/4/46/Magnetite_Necklace_m.png","price":0},
+        {"name":"Battle Necklace","image_url":"https://www.curseofaros.wiki/images/1/15/Battle_Necklace_m.png","price":0},
+        {"name":"Bronze Chainbody","image_url":"https://www.curseofaros.wiki/images/2/21/Bronze_Chainbody_m.png","price":0},
+        {"name":"Bronze Platebody","image_url":"https://www.curseofaros.wiki/images/2/23/Bronze_Platebody_m.png","price":0},
+        {"name":"Iron Chainbody","image_url":"https://www.curseofaros.wiki/images/b/bd/Iron_Chainbody_m.png","price":0},
+        {"name":"Iron Platebody","image_url":"https://www.curseofaros.wiki/images/3/3d/Iron_Platebody_m.png","price":0},
+        {"name":"Steel Chainbody","image_url":"https://www.curseofaros.wiki/images/e/ec/Steel_Chainbody_m.png","price":0},
+        {"name":"Steel Platebody","image_url":"https://www.curseofaros.wiki/images/9/9c/Steel_Platebody_m.png","price":0},
+        {"name":"Crimsteel Chainbody","image_url":"https://www.curseofaros.wiki/images/6/60/Crimsteel_Chainbody_m.png","price":0},
+        {"name":"Crimsteel Platebody","image_url":"https://www.curseofaros.wiki/images/f/fe/Crimsteel_Platebody_m.png","price":0},
+        {"name":"Ruby Platebody","image_url":"https://www.curseofaros.wiki/images/a/ad/Ruby_Platebody_m.png","price":0},
+        {"name":"Sapphire Platebody","image_url":"https://www.curseofaros.wiki/images/b/b9/Sapphire_Platebody_m.png","price":0},
+        {"name":"Arosite Platebody","image_url":"https://www.curseofaros.wiki/images/0/08/Arosite_Platebody_m.png","price":0},
+        {"name":"Mythan Platebody","image_url":"https://www.curseofaros.wiki/images/8/88/Mythan_Platebody_m.png","price":0},
+        {"name":"Cobalt Platebody","image_url":"https://www.curseofaros.wiki/images/8/88/Cobalt_Platebody_m.png","price":0},
+        {"name":"Varaxite Platebody","image_url":"https://www.curseofaros.wiki/images/f/fe/Varaxite_Platebody_m.png","price":0},
+        {"name":"Deadrock Body","image_url":"https://www.curseofaros.wiki/images/b/ba/Deadrock_Body_m.png","price":0},
+        {"name":"Glacial Body","image_url":"https://www.curseofaros.wiki/images/5/57/Glacial_Body_m.png","price":0},
+        {"name":"Spectral Breastplate","image_url":"https://www.curseofaros.wiki/images/f/fb/Spectral_Breastplate_m.png","price":0},
+        {"name":"Phantom Breastplate","image_url":"https://www.curseofaros.wiki/images/9/9c/Phantom_Breastplate_m.png","price":0},
+        {"name":"Bronze Gauntlets","image_url":"https://www.curseofaros.wiki/images/7/7d/Bronze_Gauntlets_m.png","price":0},
+        {"name":"Iron Gauntlets","image_url":"https://www.curseofaros.wiki/images/c/cb/Iron_Gauntlets_m.png","price":0},
+        {"name":"Steel Gauntlets","image_url":"https://www.curseofaros.wiki/images/7/7b/Steel_Gauntlets_m.png","price":0},
+        {"name":"Crimsteel Gauntlets","image_url":"https://www.curseofaros.wiki/images/6/67/Crimsteel_Gauntlets_m.png","price":0},
+        {"name":"Gold Gauntlets","image_url":"https://www.curseofaros.wiki/images/4/4d/Gold_Gauntlets_m.png","price":0},
+        {"name":"Scorpion Gloves","image_url":"https://www.curseofaros.wiki/images/f/f9/Scorpion_Gloves_m.png","price":0},
+        {"name":"Mythan Gauntlets","image_url":"https://www.curseofaros.wiki/images/f/f5/Mythan_Gauntlets_m.png","price":0},
+        {"name":"Raptor Gloves","image_url":"https://www.curseofaros.wiki/images/4/47/Raptor_Gloves_m.png","price":0},
+        {"name":"Desert Raptor Gloves","image_url":"https://www.curseofaros.wiki/images/9/9e/Desert_Raptor_Gloves_m.png","price":0},
+        {"name":"Cobalt Gauntlets","image_url":"https://www.curseofaros.wiki/images/5/5d/Cobalt_Gauntlets_m.png","price":0},
+        {"name":"Ice Raptor Gloves","image_url":"https://www.curseofaros.wiki/images/7/76/Ice_Raptor_Gloves_m.png","price":0},
+        {"name":"Varaxite Gauntlets","image_url":"https://www.curseofaros.wiki/images/a/a7/Varaxite_Gauntlets_m.png","price":0},
+        {"name":"Deadrock Gauntlets","image_url":"https://www.curseofaros.wiki/images/8/8f/Deadrock_Gauntlets_m.png","price":0},
+        {"name":"Cactus Gloves","image_url":"https://www.curseofaros.wiki/images/3/3e/Cactus_Gloves_m.png","price":0},
+        {"name":"Glacial Gauntlets","image_url":"https://www.curseofaros.wiki/images/6/65/Glacial_Gauntlets_m.png","price":0},
+        {"name":"Torment of Glacii","image_url":"https://www.curseofaros.wiki/images/f/fb/Torment_of_Glacii_m.png","price":0},
+        {"name":"Ring of Treasure","image_url":"https://www.curseofaros.wiki/images/2/24/Ring_of_Treasure_m.png","price":0},
+        {"name":"Ring of Sweetness","image_url":"https://www.curseofaros.wiki/images/e/e2/Ring_of_Sweetness_m.png","price":0},
+        {"name":"Nature Ring","image_url":"https://www.curseofaros.wiki/images/1/1b/Nature_Ring_m.png","price":0},
+        {"name":"Bat Ring","image_url":"https://www.curseofaros.wiki/images/f/f8/Bat_Ring_m.png","price":0},
+        {"name":"Ring of Might","image_url":"https://www.curseofaros.wiki/images/3/3e/Ring_of_Might_m.png","price":0},
+        {"name":"Infernal Ring","image_url":"https://www.curseofaros.wiki/images/e/e5/Infernal_Ring_m.png","price":0},
+        {"name":"Cactus Ring","image_url":"https://www.curseofaros.wiki/images/a/a4/Cactus_Ring_m.png","price":0},
+        {"name":"Snake Charm","image_url":"https://www.curseofaros.wiki/images/9/99/Snake_Charm_m.png","price":0},
+        {"name":"Bronze Platelegs","image_url":"https://www.curseofaros.wiki/images/6/6c/Bronze_Platelegs_m.png","price":0},
+        {"name":"Iron Platelegs","image_url":"https://www.curseofaros.wiki/images/a/a4/Iron_Platelegs_m.png","price":0},
+        {"name":"Steel Platelegs","image_url":"https://www.curseofaros.wiki/images/2/21/Steel_Platelegs_m.png","price":0},
+        {"name":"Crimsteel Platelegs","image_url":"https://www.curseofaros.wiki/images/d/d9/Crimsteel_Platelegs_m.png","price":0},
+        {"name":"Gold Platelegs","image_url":"https://www.curseofaros.wiki/images/a/a7/Gold_Platelegs_m.png","price":0},
+        {"name":"Mythan Platelegs","image_url":"https://www.curseofaros.wiki/images/a/ae/Mythan_Platelegs_m.png","price":0},
+        {"name":"Cobalt Platelegs","image_url":"https://www.curseofaros.wiki/images/1/1e/Cobalt_Platelegs_m.png","price":0},
+        {"name":"Varaxite Platelegs","image_url":"https://www.curseofaros.wiki/images/4/43/Varaxite_Platelegs_m.png","price":0},
+        {"name":"Deadrock Legs","image_url":"https://www.curseofaros.wiki/images/a/a3/Deadrock_Legs_m.png","price":0},
+        {"name":"Glacial Legs","image_url":"https://www.curseofaros.wiki/images/b/bc/Glacial_Legs_m.png","price":0},
+        {"name":"Spectral Platelegs","image_url":"https://www.curseofaros.wiki/images/4/49/Spectral_Platelegs_m.png","price":0},
+        {"name":"Phantom Platelegs","image_url":"https://www.curseofaros.wiki/images/4/4d/Phantom_Platelegs_m.png","price":0},
+        {"name":"Bronze Boots","image_url":"https://www.curseofaros.wiki/images/4/48/Bronze_Boots_m.png","price":0},
+        {"name":"Iron Boots","image_url":"https://www.curseofaros.wiki/images/6/6f/Iron_Boots_m.png","price":0},
+        {"name":"Steel Boots","image_url":"https://www.curseofaros.wiki/images/1/16/Steel_Boots_m.png","price":0},
+        {"name":"Crimsteel Boots","image_url":"https://www.curseofaros.wiki/images/2/2e/Crimsteel_Boots_m.png","price":0},
+        {"name":"Gold Boots","image_url":"https://www.curseofaros.wiki/images/5/50/Gold_Boots_m.png","price":0},
+        {"name":"Mythan Boots","image_url":"https://www.curseofaros.wiki/images/2/28/Mythan_Boots_m.png","price":0},
+        {"name":"Cobalt Boots","image_url":"https://www.curseofaros.wiki/images/5/5a/Cobalt_Boots_m.png","price":0},
+        {"name":"Varaxite Boots","image_url":"https://www.curseofaros.wiki/images/8/83/Varaxite_Boots_m.png","price":0},
+        {"name":"Deadrock Boots","image_url":"https://www.curseofaros.wiki/images/f/fa/Deadrock_Boots_m.png","price":0},
+        {"name":"Glacial Boots","image_url":"https://www.curseofaros.wiki/images/e/ef/Glacial_Boots_m.png","price":0},
+        {"name":"Spectral Boots","image_url":"https://www.curseofaros.wiki/images/3/36/Spectral_Boots_m.png","price":0},
+        {"name":"Phantom Boots","image_url":"https://www.curseofaros.wiki/images/c/c1/Phantom_Boots_m.png","price":0},
+        {"name":"Howler's Cape","image_url":"https://www.curseofaros.wiki/images/d/de/Howler%27s_Cape_m.png","price":0},
+        {"name":"Infernal Hammer","image_url":"https://www.curseofaros.wiki/images/3/3c/Infernal_Hammer_m.png","price":0},
+        {"name":"Bronze Secateurs","image_url":"https://www.curseofaros.wiki/images/c/cc/Bronze_Secateurs_m.png","price":0},
+        {"name":"Iron Secateurs","image_url":"https://www.curseofaros.wiki/images/5/52/Iron_Secateurs_m.png","price":0},
+        {"name":"Steel Secateurs","image_url":"https://www.curseofaros.wiki/images/d/dd/Steel_Secateurs_m.png","price":0},
+        {"name":"Crimsteel Secateurs","image_url":"https://www.curseofaros.wiki/images/0/04/Crimsteel_Secateurs_m.png","price":0},
+        {"name":"Mythan Secateurs","image_url":"https://www.curseofaros.wiki/images/e/ea/Mythan_Secateurs_m.png","price":0},
+        {"name":"Cobalt Secateurs","image_url":"https://www.curseofaros.wiki/images/c/c3/Cobalt_Secateurs_m.png","price":0},
+        {"name":"Varaxite Secateurs","image_url":"https://www.curseofaros.wiki/images/5/5c/Varaxite_Secateurs_m.png","price":0},
+        {"name":"Bryomera Secateurs","image_url":"https://www.curseofaros.wiki/images/a/a8/Bryomera_Secateurs_m.png","price":90000000}
     ],
     "Consumables": [
-        {
-            "name": "Potion",
-            "image_url": "https://www.curseofaros.wiki/images/9/97/Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Health flask",
-            "image_url": "https://www.curseofaros.wiki/images/d/de/Health_flask_m.png",
-            "price": 300
-        },
-        {
-            "name": "Flask of Life",
-            "image_url": "https://www.curseofaros.wiki/images/b/bb/Flask_of_Life_m.png",
-            "price": 600
-        },
-        
-        {
-            "name": "Anti-Poison Serum",
-            "image_url": "https://www.curseofaros.wiki/images/e/e1/Anti-Poison_Serum_m.png",
-            "price": 0
-        },
-        {
-            "name": "Vitality Potion",
-            "image_url": "https://www.curseofaros.wiki/images/3/3b/Vitality_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Strength Potion",
-            "image_url": "https://www.curseofaros.wiki/images/8/82/Strength_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Accuracy Potion",
-            "image_url": "https://www.curseofaros.wiki/images/b/b8/Accuracy_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Defence Potion",
-            "image_url": "https://www.curseofaros.wiki/images/e/ec/Defence_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Rejuvenation Potion",
-            "image_url": "https://www.curseofaros.wiki/images/1/11/Rejuvenation_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Deflection Potion",
-            "image_url": "https://www.curseofaros.wiki/images/6/63/Deflection_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mining Potion",
-            "image_url": "https://www.curseofaros.wiki/images/0/05/Mining_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Woodcutting Potion",
-            "image_url": "https://www.curseofaros.wiki/images/8/84/Woodcutting_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Fishing Potion",
-            "image_url": "https://www.curseofaros.wiki/images/5/50/Fishing_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Smithing Potion",
-            "image_url": "https://www.curseofaros.wiki/images/f/f8/Smithing_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crafting Potion",
-            "image_url": "https://www.curseofaros.wiki/images/f/f9/Crafting_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooking Potion",
-            "image_url": "https://www.curseofaros.wiki/images/6/64/Cooking_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spellbinding Potion",
-            "image_url": "https://www.curseofaros.wiki/images/8/80/Spellbinding_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Taskmaster's Brew",
-            "image_url": "https://www.curseofaros.wiki/images/3/3f/Taskmaster%27s_Brew_m.png",
-            "price": 0
-        },
-        {
-            "name": "Prospector's Brew",
-            "image_url": "https://www.curseofaros.wiki/images/c/c9/Prospector%27s_Brew_m.png",
-            "price": 0
-        },
-        {
-            "name": "Lumberjack's Ale",
-            "image_url": "https://www.curseofaros.wiki/images/3/3d/Lumberjack%27s_Ale_m.png",
-            "price": 0
-        },
-        {
-            "name": "Blacksmith's Stout",
-            "image_url": "https://www.curseofaros.wiki/images/f/ff/Blacksmith%27s_Stout_m.png",
-            "price": 0
-        },
-        {
-            "name": "Artisan's Syrup",
-            "image_url": "https://www.curseofaros.wiki/images/c/c3/Artisan%27s_Syrup_m.png",
-            "price": 0
-        },
-        {
-            "name": "Angler's Elixir",
-            "image_url": "https://www.curseofaros.wiki/images/7/7c/Angler%27s_Elixir_m.png",
-            "price": 0
-        },
-        {
-            "name": "Chef's Kiss",
-            "image_url": "https://www.curseofaros.wiki/images/1/19/Chef%27s_Kiss_m.png",
-            "price": 0
-        },
-        {
-            "name": "Imbuer's Wine",
-            "image_url": "https://www.curseofaros.wiki/images/2/2e/Imbuer%27s_Wine_m.png",
-            "price": 0
-        },
-        {
-            "name": "Spellpower Potion",
-            "image_url": "https://www.curseofaros.wiki/images/0/04/Spellpower_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Concentrated Elixir",
-            "image_url": "https://www.curseofaros.wiki/images/2/27/Concentrated_Elixir_m.png",
-            "price": 0
-        },
-        {
-            "name": "Divine Clarity",
-            "image_url": "https://www.curseofaros.wiki/images/2/2c/Divine_Clarity_m.png",
-            "price": 0
-        },
-        {
-            "name": "Titan's Strength",
-            "image_url": "https://www.curseofaros.wiki/images/6/6d/Titan%27s_Strength_m.png",
-            "price": 0
-        },
-        {
-            "name": "Duelist's Draft",
-            "image_url": "https://www.curseofaros.wiki/images/8/8b/Duelist%27s_Draft_m.png",
-            "price": 0
-        },
-        {
-            "name": "Stonebound Salve",
-            "image_url": "https://www.curseofaros.wiki/images/4/41/Stonebound_Salve_m.png",
-            "price": 0
-        },
-        {
-            "name": "Backlash Balm",
-            "image_url": "https://www.curseofaros.wiki/images/7/79/Backlash_Balm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Berserker Potion",
-            "image_url": "https://www.curseofaros.wiki/images/8/81/Berserker_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arcanist's Wrath",
-            "image_url": "https://www.curseofaros.wiki/images/b/b4/Arcanist%27s_Wrath_m.png",
-            "price": 20000
-        },
-        {
-            "name": "Forsworn Focus",
-            "image_url": "https://www.curseofaros.wiki/images/3/3e/Forsworn_Focus_m.png",
-            "price": 0
-        },
-        {
-            "name": "Antidote",
-            "image_url": "https://www.curseofaros.wiki/images/f/fc/Antidote_m.png",
-            "price": 0
-        },
-        {
-            "name": "Frostskin Potion",
-            "image_url": "https://www.curseofaros.wiki/images/5/50/Frostskin_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Arctic Potion",
-            "image_url": "https://www.curseofaros.wiki/images/8/8d/Arctic_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Scavenger's Balm",
-            "image_url": "https://www.curseofaros.wiki/images/b/bc/Scavenger%27s_Balm_m.png",
-            "price": 0
-        },
-        {
-            "name": "Vampirism Potion",
-            "image_url": "https://www.curseofaros.wiki/images/e/e6/Vampirism_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Assassin's Tonic",
-            "image_url": "https://www.curseofaros.wiki/images/c/c6/Assassin%27s_Tonic_m.png",
-            "price": 40000
-        },
-        {
-            "name": "Auric Bloom",
-            "image_url": "https://www.curseofaros.wiki/images/4/49/Auric_Bloom_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mirrorback Brew",
-            "image_url": "https://www.curseofaros.wiki/images/7/7b/Mirrorback_Brew_m.png",
-            "price": 0
-        },
-        {
-            "name": "Golem's Power",
-            "image_url": "https://www.curseofaros.wiki/images/e/ee/Golem%27s_Power_m.png",
-            "price": 40000
-        },
-        {
-            "name": "Guardian's Bulwark",
-            "image_url": "https://www.curseofaros.wiki/images/a/a8/Guardian%27s_Bulwark_m.png",
-            "price": 40000
-        },
-        {
-            "name": "Quietus",
-            "image_url": "https://www.curseofaros.wiki/images/b/b1/Quietus_m.png",
-            "price": 0
-        },
-        {
-            "name": "Midas Brew",
-            "image_url": "https://www.curseofaros.wiki/images/c/c0/Midas_Brew_m.png",
-            "price": 0
-        },
-        {
-            "name": "Featherwalk Potion",
-            "image_url": "https://www.curseofaros.wiki/images/b/b7/Featherwalk_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Sanguine Oath",
-            "image_url": "https://www.curseofaros.wiki/images/a/a3/Sanguine_Oath_m.png",
-            "price": 0
-        },
-        {
-            "name": "Dance of the Undead",
-            "image_url": "https://www.curseofaros.wiki/images/6/6e/Dance_of_the_Undead_m.png",
-            "price": 80000
-        },
-        {
-            "name": "Gilded Transmutation",
-            "image_url": "https://www.curseofaros.wiki/images/5/58/Gilded_Transmutation_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cloudwalk Potion",
-            "image_url": "https://www.curseofaros.wiki/images/b/b4/Cloudwalk_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Distilled Extract",
-            "image_url": "https://www.curseofaros.wiki/images/0/00/Distilled_Extract_m.png",
-            "price": 80000
-        },
-        {
-            "name": "Provocation Potion",
-            "image_url": "https://www.curseofaros.wiki/images/4/47/Provocation_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Strigoi's Covenant",
-            "image_url": "https://www.curseofaros.wiki/images/2/22/Strigoi%27s_Covenant_m.png",
-            "price": 70000
-        },
-        {
-            "name": "Death's Rally",
-            "image_url": "https://www.curseofaros.wiki/images/5/54/Death%27s_Rally_m.png",
-            "price": 75000
-        },
-        {
-            "name": "Scroll of Rebirth",
-            "image_url": "https://www.curseofaros.wiki/images/0/02/Scroll_of_Rebirth_m.png",
-            "price": 0
-        },
-        {
-            "name": "Scroll of Returning",
-            "image_url": "https://www.curseofaros.wiki/images/2/2f/Scroll_of_Returning_m.png",
-            "price": 0
-        },
-        {
-            "name": "Candy",
-            "image_url": "https://www.curseofaros.wiki/images/a/af/Candy_m.png",
-            "price": 225000
-        },
-        {
-            "name": "Lollipop",
-            "image_url": "https://www.curseofaros.wiki/images/d/df/Lollipop_m.png",
-            "price": 1150000
-        },
-        {
-            "name": "Sugar Brew",
-            "image_url": "https://www.curseofaros.wiki/images/8/8a/Sugar_Brew_m.png",
-            "price": 0
-        },
-        {
-            "name": "Candy Cane",
-            "image_url": "https://www.curseofaros.wiki/images/8/86/Candy_Cane_m.png",
-            "price": 0
-        },
-        {
-            "name": "Name Tag",
-            "image_url": "https://www.curseofaros.wiki/images/b/b3/Name_Tag_m.png",
-            "price": 57500000
-        },
-        {
-            "name": "Pet Name Tag",
-            "image_url": "https://www.curseofaros.wiki/images/3/35/Pet_Name_Tag_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Accuracy",
-            "image_url": "https://www.curseofaros.wiki/images/6/68/Relic_of_Accuracy_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Guarding",
-            "image_url": "https://www.curseofaros.wiki/images/2/21/Relic_of_Guarding_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Healing",
-            "image_url": "https://www.curseofaros.wiki/images/d/d9/Relic_of_Healing_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Wealth",
-            "image_url": "https://www.curseofaros.wiki/images/5/55/Relic_of_Wealth_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Power",
-            "image_url": "https://www.curseofaros.wiki/images/e/e2/Relic_of_Power_m.png",
-            "price": 6000
-        },
-        {
-            "name": "Relic of Nature",
-            "image_url": "https://www.curseofaros.wiki/images/3/3e/Relic_of_Nature_m.png",
-            "price": 5000
-        },
-        {
-            "name": "Relic of Fire",
-            "image_url": "https://www.curseofaros.wiki/images/c/c1/Relic_of_Fire_m.png",
-            "price": 4000
-        },
-        {
-            "name": "Relic of Damage",
-            "image_url": "https://www.curseofaros.wiki/images/7/70/Relic_of_Damage_m.png",
-            "price": 8000
-        },
-        {
-            "name": "Relic of Leeching",
-            "image_url": "https://www.curseofaros.wiki/images/d/d4/Relic_of_Leeching_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Experience",
-            "image_url": "https://www.curseofaros.wiki/images/a/ad/Relic_of_Experience_m.png",
-            "price": 15000
-        },
-        {
-            "name": "Cursed Relic",
-            "image_url": "https://www.curseofaros.wiki/images/1/1a/Cursed_Relic_m.png",
-            "price": 3000
-        },
-        {
-            "name": "Ice Relic",
-            "image_url": "https://www.curseofaros.wiki/images/b/b5/Ice_Relic_m.png",
-            "price": 4000
-        },
-        {
-            "name": "Relic of Efficiency",
-            "image_url": "https://www.curseofaros.wiki/images/1/16/Relic_of_Efficiency_m.png",
-            "price": 0
-        },
-        {
-            "name": "Relic of Affliction",
-            "image_url": "https://www.curseofaros.wiki/images/f/fe/Relic_of_Affliction_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Anchovies",
-            "image_url": "https://www.curseofaros.wiki/images/8/85/Cooked_Anchovies_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Mackerel",
-            "image_url": "https://www.curseofaros.wiki/images/f/f9/Cooked_Mackerel_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Squid",
-            "image_url": "https://www.curseofaros.wiki/images/f/f8/Cooked_Squid_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Sardine",
-            "image_url": "https://www.curseofaros.wiki/images/5/5f/Cooked_Sardine_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Eel",
-            "image_url": "https://www.curseofaros.wiki/images/b/b9/Cooked_Eel_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Anglerfish",
-            "image_url": "https://www.curseofaros.wiki/images/d/d6/Cooked_Anglerfish_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Trout",
-            "image_url": "https://www.curseofaros.wiki/images/c/cd/Cooked_Trout_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Bass",
-            "image_url": "https://www.curseofaros.wiki/images/3/3b/Cooked_Bass_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Tuna",
-            "image_url": "https://www.curseofaros.wiki/images/4/44/Cooked_Tuna_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Lobster",
-            "image_url": "https://www.curseofaros.wiki/images/3/3a/Cooked_Lobster_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Sea Turtle",
-            "image_url": "https://www.curseofaros.wiki/images/2/2f/Cooked_Sea_Turtle_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Manta Ray",
-            "image_url": "https://www.curseofaros.wiki/images/b/bc/Cooked_Manta_Ray_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Shark",
-            "image_url": "https://www.curseofaros.wiki/images/8/84/Cooked_Shark_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Orca",
-            "image_url": "https://www.curseofaros.wiki/images/d/db/Cooked_Orca_m.png",
-            "price": 0
-        },
-        {
-            "name": "Cooked Giant Squid",
-            "image_url": "https://www.curseofaros.wiki/images/2/28/Cooked_Giant_Squid_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bag of Tricks",
-            "image_url": "https://www.curseofaros.wiki/images/4/47/Bag_of_Tricks_m.png",
-            "price": 0
-        },
-        {
-            "name": "Bag of Sweets",
-            "image_url": "https://www.curseofaros.wiki/images/3/32/Bag_of_Sweets_m.png",
-            "price": 0
-        },
-        {
-            "name": "Magic Bag of Treats",
-            "image_url": "https://www.curseofaros.wiki/images/4/45/Magic_Bag_of_Treats_m.png",
-            "price": 0
-        },
-        {
-            "name": "Present (White)",
-            "image_url": "https://www.curseofaros.wiki/images/7/75/Present_%28White%29_m.png",
-            "price": 0
-        },
-        {
-            "name": "Present (Red)",
-            "image_url": "https://www.curseofaros.wiki/images/b/b4/Present_%28Red%29_m.png",
-            "price": 0
-        },
-        {
-            "name": "Present (Gold)",
-            "image_url": "https://www.curseofaros.wiki/images/6/6e/Present_%28Gold%29_m.png",
-            "price": 0
-        },
-        {
-            "name": "Box of Chocolate",
-            "image_url": "https://www.curseofaros.wiki/images/8/88/Box_of_Chocolate_m.png",
-            "price": 0
-        },
-        {
-            "name": "Box of Pralines",
-            "image_url": "https://www.curseofaros.wiki/images/8/86/Box_of_Pralines_m.png",
-            "price": 0
-        },
-        {
-            "name": "Lootkin",
-            "image_url": "https://www.curseofaros.wiki/images/b/b4/Lootkin_m.png",
-            "price": 0
-        },
-        {
-            "name": "Lucky Egg",
-            "image_url": "https://www.curseofaros.wiki/images/d/d0/Lucky_Egg_m.png",
-            "price": 0
-        },
-        {
-            "name": "Leaky Leek",
-            "image_url": "https://www.curseofaros.wiki/images/8/86/Leaky_Leek_m.png",
-            "price": 0
-        },
-        {
-            "name": "Remote Bank Chest",
-            "image_url": "https://www.curseofaros.wiki/images/8/8a/Remote_Bank_Chest_m.png",
-            "price": 0
-        },
-        {
-            "name": "Portal charge",
-            "image_url": "https://www.curseofaros.wiki/images/0/0b/Portal_charge_m.png",
-            "price": 0
-        }
+        {"name":"Potion","image_url":"https://www.curseofaros.wiki/images/9/97/Potion_m.png","price":0},
+        {"name":"Health flask","image_url":"https://www.curseofaros.wiki/images/d/de/Health_flask_m.png","price":300},
+        {"name":"Flask of Life","image_url":"https://www.curseofaros.wiki/images/b/bb/Flask_of_Life_m.png","price":600},
+        {"name":"Anti-Poison Serum","image_url":"https://www.curseofaros.wiki/images/e/e1/Anti-Poison_Serum_m.png","price":0},
+        {"name":"Vitality Potion","image_url":"https://www.curseofaros.wiki/images/3/3b/Vitality_Potion_m.png","price":0},
+        {"name":"Strength Potion","image_url":"https://www.curseofaros.wiki/images/8/82/Strength_Potion_m.png","price":0},
+        {"name":"Accuracy Potion","image_url":"https://www.curseofaros.wiki/images/b/b8/Accuracy_Potion_m.png","price":0},
+        {"name":"Defence Potion","image_url":"https://www.curseofaros.wiki/images/e/ec/Defence_Potion_m.png","price":0},
+        {"name":"Rejuvenation Potion","image_url":"https://www.curseofaros.wiki/images/1/11/Rejuvenation_Potion_m.png","price":0},
+        {"name":"Deflection Potion","image_url":"https://www.curseofaros.wiki/images/6/63/Deflection_Potion_m.png","price":0},
+        {"name":"Mining Potion","image_url":"https://www.curseofaros.wiki/images/0/05/Mining_Potion_m.png","price":0},
+        {"name":"Woodcutting Potion","image_url":"https://www.curseofaros.wiki/images/8/84/Woodcutting_Potion_m.png","price":0},
+        {"name":"Fishing Potion","image_url":"https://www.curseofaros.wiki/images/5/50/Fishing_Potion_m.png","price":0},
+        {"name":"Smithing Potion","image_url":"https://www.curseofaros.wiki/images/f/f8/Smithing_Potion_m.png","price":0},
+        {"name":"Crafting Potion","image_url":"https://www.curseofaros.wiki/images/f/f9/Crafting_Potion_m.png","price":0},
+        {"name":"Cooking Potion","image_url":"https://www.curseofaros.wiki/images/6/64/Cooking_Potion_m.png","price":0},
+        {"name":"Spellbinding Potion","image_url":"https://www.curseofaros.wiki/images/8/80/Spellbinding_Potion_m.png","price":0},
+        {"name":"Taskmaster's Brew","image_url":"https://www.curseofaros.wiki/images/3/3f/Taskmaster%27s_Brew_m.png","price":0},
+        {"name":"Prospector's Brew","image_url":"https://www.curseofaros.wiki/images/c/c9/Prospector%27s_Brew_m.png","price":0},
+        {"name":"Lumberjack's Ale","image_url":"https://www.curseofaros.wiki/images/3/3d/Lumberjack%27s_Ale_m.png","price":0},
+        {"name":"Blacksmith's Stout","image_url":"https://www.curseofaros.wiki/images/f/ff/Blacksmith%27s_Stout_m.png","price":0},
+        {"name":"Artisan's Syrup","image_url":"https://www.curseofaros.wiki/images/c/c3/Artisan%27s_Syrup_m.png","price":0},
+        {"name":"Angler's Elixir","image_url":"https://www.curseofaros.wiki/images/7/7c/Angler%27s_Elixir_m.png","price":0},
+        {"name":"Chef's Kiss","image_url":"https://www.curseofaros.wiki/images/1/19/Chef%27s_Kiss_m.png","price":0},
+        {"name":"Imbuer's Wine","image_url":"https://www.curseofaros.wiki/images/2/2e/Imbuer%27s_Wine_m.png","price":0},
+        {"name":"Spellpower Potion","image_url":"https://www.curseofaros.wiki/images/0/04/Spellpower_Potion_m.png","price":0},
+        {"name":"Concentrated Elixir","image_url":"https://www.curseofaros.wiki/images/2/27/Concentrated_Elixir_m.png","price":0},
+        {"name":"Divine Clarity","image_url":"https://www.curseofaros.wiki/images/2/2c/Divine_Clarity_m.png","price":0},
+        {"name":"Titan's Strength","image_url":"https://www.curseofaros.wiki/images/6/6d/Titan%27s_Strength_m.png","price":0},
+        {"name":"Duelist's Draft","image_url":"https://www.curseofaros.wiki/images/8/8b/Duelist%27s_Draft_m.png","price":0},
+        {"name":"Stonebound Salve","image_url":"https://www.curseofaros.wiki/images/4/41/Stonebound_Salve_m.png","price":0},
+        {"name":"Backlash Balm","image_url":"https://www.curseofaros.wiki/images/7/79/Backlash_Balm_m.png","price":0},
+        {"name":"Berserker Potion","image_url":"https://www.curseofaros.wiki/images/8/81/Berserker_Potion_m.png","price":0},
+        {"name":"Arcanist's Wrath","image_url":"https://www.curseofaros.wiki/images/b/b4/Arcanist%27s_Wrath_m.png","price":20000},
+        {"name":"Forsworn Focus","image_url":"https://www.curseofaros.wiki/images/3/3e/Forsworn_Focus_m.png","price":0},
+        {"name":"Antidote","image_url":"https://www.curseofaros.wiki/images/f/fc/Antidote_m.png","price":0},
+        {"name":"Frostskin Potion","image_url":"https://www.curseofaros.wiki/images/5/50/Frostskin_Potion_m.png","price":0},
+        {"name":"Arctic Potion","image_url":"https://www.curseofaros.wiki/images/8/8d/Arctic_Potion_m.png","price":0},
+        {"name":"Scavenger's Balm","image_url":"https://www.curseofaros.wiki/images/b/bc/Scavenger%27s_Balm_m.png","price":0},
+        {"name":"Vampirism Potion","image_url":"https://www.curseofaros.wiki/images/e/e6/Vampirism_Potion_m.png","price":0},
+        {"name":"Assassin's Tonic","image_url":"https://www.curseofaros.wiki/images/c/c6/Assassin%27s_Tonic_m.png","price":40000},
+        {"name":"Auric Bloom","image_url":"https://www.curseofaros.wiki/images/4/49/Auric_Bloom_m.png","price":0},
+        {"name":"Mirrorback Brew","image_url":"https://www.curseofaros.wiki/images/7/7b/Mirrorback_Brew_m.png","price":0},
+        {"name":"Golem's Power","image_url":"https://www.curseofaros.wiki/images/e/ee/Golem%27s_Power_m.png","price":40000},
+        {"name":"Guardian's Bulwark","image_url":"https://www.curseofaros.wiki/images/a/a8/Guardian%27s_Bulwark_m.png","price":40000},
+        {"name":"Quietus","image_url":"https://www.curseofaros.wiki/images/b/b1/Quietus_m.png","price":0},
+        {"name":"Midas Brew","image_url":"https://www.curseofaros.wiki/images/c/c0/Midas_Brew_m.png","price":0},
+        {"name":"Featherwalk Potion","image_url":"https://www.curseofaros.wiki/images/b/b7/Featherwalk_Potion_m.png","price":0},
+        {"name":"Sanguine Oath","image_url":"https://www.curseofaros.wiki/images/a/a3/Sanguine_Oath_m.png","price":0},
+        {"name":"Dance of the Undead","image_url":"https://www.curseofaros.wiki/images/6/6e/Dance_of_the_Undead_m.png","price":80000},
+        {"name":"Gilded Transmutation","image_url":"https://www.curseofaros.wiki/images/5/58/Gilded_Transmutation_m.png","price":0},
+        {"name":"Cloudwalk Potion","image_url":"https://www.curseofaros.wiki/images/b/b4/Cloudwalk_Potion_m.png","price":0},
+        {"name":"Distilled Extract","image_url":"https://www.curseofaros.wiki/images/0/00/Distilled_Extract_m.png","price":80000},
+        {"name":"Provocation Potion","image_url":"https://www.curseofaros.wiki/images/4/47/Provocation_Potion_m.png","price":0},
+        {"name":"Strigoi's Covenant","image_url":"https://www.curseofaros.wiki/images/2/22/Strigoi%27s_Covenant_m.png","price":70000},
+        {"name":"Death's Rally","image_url":"https://www.curseofaros.wiki/images/5/54/Death%27s_Rally_m.png","price":75000},
+        {"name":"Scroll of Rebirth","image_url":"https://www.curseofaros.wiki/images/0/02/Scroll_of_Rebirth_m.png","price":0},
+        {"name":"Scroll of Returning","image_url":"https://www.curseofaros.wiki/images/2/2f/Scroll_of_Returning_m.png","price":0},
+        {"name":"Candy","image_url":"https://www.curseofaros.wiki/images/a/af/Candy_m.png","price":225000},
+        {"name":"Lollipop","image_url":"https://www.curseofaros.wiki/images/d/df/Lollipop_m.png","price":1150000},
+        {"name":"Sugar Brew","image_url":"https://www.curseofaros.wiki/images/8/8a/Sugar_Brew_m.png","price":0},
+        {"name":"Candy Cane","image_url":"https://www.curseofaros.wiki/images/8/86/Candy_Cane_m.png","price":0},
+        {"name":"Name Tag","image_url":"https://www.curseofaros.wiki/images/b/b3/Name_Tag_m.png","price":57500000},
+        {"name":"Pet Name Tag","image_url":"https://www.curseofaros.wiki/images/3/35/Pet_Name_Tag_m.png","price":0},
+        {"name":"Relic of Accuracy","image_url":"https://www.curseofaros.wiki/images/6/68/Relic_of_Accuracy_m.png","price":0},
+        {"name":"Relic of Guarding","image_url":"https://www.curseofaros.wiki/images/2/21/Relic_of_Guarding_m.png","price":0},
+        {"name":"Relic of Healing","image_url":"https://www.curseofaros.wiki/images/d/d9/Relic_of_Healing_m.png","price":0},
+        {"name":"Relic of Wealth","image_url":"https://www.curseofaros.wiki/images/5/55/Relic_of_Wealth_m.png","price":0},
+        {"name":"Relic of Power","image_url":"https://www.curseofaros.wiki/images/e/e2/Relic_of_Power_m.png","price":6000},
+        {"name":"Relic of Nature","image_url":"https://www.curseofaros.wiki/images/3/3e/Relic_of_Nature_m.png","price":5000},
+        {"name":"Relic of Fire","image_url":"https://www.curseofaros.wiki/images/c/c1/Relic_of_Fire_m.png","price":4000},
+        {"name":"Relic of Damage","image_url":"https://www.curseofaros.wiki/images/7/70/Relic_of_Damage_m.png","price":8000},
+        {"name":"Relic of Leeching","image_url":"https://www.curseofaros.wiki/images/d/d4/Relic_of_Leeching_m.png","price":0},
+        {"name":"Relic of Experience","image_url":"https://www.curseofaros.wiki/images/a/ad/Relic_of_Experience_m.png","price":15000},
+        {"name":"Cursed Relic","image_url":"https://www.curseofaros.wiki/images/1/1a/Cursed_Relic_m.png","price":3000},
+        {"name":"Ice Relic","image_url":"https://www.curseofaros.wiki/images/b/b5/Ice_Relic_m.png","price":4000},
+        {"name":"Relic of Efficiency","image_url":"https://www.curseofaros.wiki/images/1/16/Relic_of_Efficiency_m.png","price":0},
+        {"name":"Relic of Affliction","image_url":"https://www.curseofaros.wiki/images/f/fe/Relic_of_Affliction_m.png","price":0},
+        {"name":"Cooked Anchovies","image_url":"https://www.curseofaros.wiki/images/8/85/Cooked_Anchovies_m.png","price":0},
+        {"name":"Cooked Mackerel","image_url":"https://www.curseofaros.wiki/images/f/f9/Cooked_Mackerel_m.png","price":0},
+        {"name":"Cooked Squid","image_url":"https://www.curseofaros.wiki/images/f/f8/Cooked_Squid_m.png","price":0},
+        {"name":"Cooked Sardine","image_url":"https://www.curseofaros.wiki/images/5/5f/Cooked_Sardine_m.png","price":0},
+        {"name":"Cooked Eel","image_url":"https://www.curseofaros.wiki/images/b/b9/Cooked_Eel_m.png","price":0},
+        {"name":"Cooked Anglerfish","image_url":"https://www.curseofaros.wiki/images/d/d6/Cooked_Anglerfish_m.png","price":0},
+        {"name":"Cooked Trout","image_url":"https://www.curseofaros.wiki/images/c/cd/Cooked_Trout_m.png","price":0},
+        {"name":"Cooked Bass","image_url":"https://www.curseofaros.wiki/images/3/3b/Cooked_Bass_m.png","price":0},
+        {"name":"Cooked Tuna","image_url":"https://www.curseofaros.wiki/images/4/44/Cooked_Tuna_m.png","price":0},
+        {"name":"Cooked Lobster","image_url":"https://www.curseofaros.wiki/images/3/3a/Cooked_Lobster_m.png","price":0},
+        {"name":"Cooked Sea Turtle","image_url":"https://www.curseofaros.wiki/images/2/2f/Cooked_Sea_Turtle_m.png","price":0},
+        {"name":"Cooked Manta Ray","image_url":"https://www.curseofaros.wiki/images/b/bc/Cooked_Manta_Ray_m.png","price":0},
+        {"name":"Cooked Shark","image_url":"https://www.curseofaros.wiki/images/8/84/Cooked_Shark_m.png","price":0},
+        {"name":"Cooked Orca","image_url":"https://www.curseofaros.wiki/images/d/db/Cooked_Orca_m.png","price":0},
+        {"name":"Cooked Giant Squid","image_url":"https://www.curseofaros.wiki/images/2/28/Cooked_Giant_Squid_m.png","price":0},
+        {"name":"Bag of Tricks","image_url":"https://www.curseofaros.wiki/images/4/47/Bag_of_Tricks_m.png","price":0},
+        {"name":"Bag of Sweets","image_url":"https://www.curseofaros.wiki/images/3/32/Bag_of_Sweets_m.png","price":0},
+        {"name":"Magic Bag of Treats","image_url":"https://www.curseofaros.wiki/images/4/45/Magic_Bag_of_Treats_m.png","price":0},
+        {"name":"Present (White)","image_url":"https://www.curseofaros.wiki/images/7/75/Present_%28White%29_m.png","price":0},
+        {"name":"Present (Red)","image_url":"https://www.curseofaros.wiki/images/b/b4/Present_%28Red%29_m.png","price":0},
+        {"name":"Present (Gold)","image_url":"https://www.curseofaros.wiki/images/6/6e/Present_%28Gold%29_m.png","price":0},
+        {"name":"Box of Chocolate","image_url":"https://www.curseofaros.wiki/images/8/88/Box_of_Chocolate_m.png","price":0},
+        {"name":"Box of Pralines","image_url":"https://www.curseofaros.wiki/images/8/86/Box_of_Pralines_m.png","price":0},
+        {"name":"Lootkin","image_url":"https://www.curseofaros.wiki/images/b/b4/Lootkin_m.png","price":0},
+        {"name":"Lucky Egg","image_url":"https://www.curseofaros.wiki/images/d/d0/Lucky_Egg_m.png","price":0},
+        {"name":"Leaky Leek","image_url":"https://www.curseofaros.wiki/images/8/86/Leaky_Leek_m.png","price":0},
+        {"name":"Remote Bank Chest","image_url":"https://www.curseofaros.wiki/images/8/8a/Remote_Bank_Chest_m.png","price":0},
+        {"name":"Portal charge","image_url":"https://www.curseofaros.wiki/images/0/0b/Portal_charge_m.png","price":0},
+        {"name":"Ember Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Ember Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Leech Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Leech Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Icicle Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Icicle Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Haunt Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Haunt Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Ignite Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Ignite Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Drain Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Drain Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Freeze Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Freeze Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Curse Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Curse Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Inferno Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Inferno Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Consume Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Consume Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Blizzard Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Blizzard Tome.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Torture Tome","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Torture Tome.gif","price":0,"last_update":"28/03/2026"}
     ],
     "Materials": [
-        {
-            "name": "Tin Ore",
-            "image_url": "https://www.curseofaros.wiki/images/c/ca/Tin_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Copper Ore",
-            "image_url": "https://www.curseofaros.wiki/images/7/76/Copper_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Ore",
-            "image_url": "https://www.curseofaros.wiki/images/f/f7/Iron_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Salt",
-            "image_url": "https://www.curseofaros.wiki/images/6/6c/Salt_m.png",
-            "price": 0
-        },
-        {
-            "name": "Coal",
-            "image_url": "https://www.curseofaros.wiki/images/1/13/Coal_m.png",
-            "price": 3500
-        },
-        {
-            "name": "Silver Ore",
-            "image_url": "https://www.curseofaros.wiki/images/f/f0/Silver_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Ore",
-            "image_url": "https://www.curseofaros.wiki/images/9/90/Crimsteel_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Ore",
-            "image_url": "https://www.curseofaros.wiki/images/f/fc/Gold_Ore_m.png",
-            "price": 0
-        },
-        {
-            "name": "Pink salt",
-            "image_url": "https://www.curseofaros.wiki/images/0/02/Pink_salt_m.png",
-            "price": 7000
-        },
-        {
-            "name": "Mythan Ore",
-            "image_url": "https://www.curseofaros.wiki/images/2/26/Mythan_Ore_m.png",
-            "price": 10000
-        },
-        {
-            "name": "Sandstone",
-            "image_url": "https://www.curseofaros.wiki/images/a/ab/Sandstone_m.png",
-            "price": 8000
-        },
-        {
-            "name": "Cobalt Ore",
-            "image_url": "https://www.curseofaros.wiki/images/e/e1/Cobalt_Ore_m.png",
-            "price": 12000
-        },
-        {
-            "name": "Varaxium",
-            "image_url": "https://www.curseofaros.wiki/images/0/0f/Varaxium_m.png",
-            "price": 13000
-        },
-        {
-            "name": "Black Salt",
-            "image_url": "https://www.curseofaros.wiki/images/9/94/Black_Salt_m.png",
-            "price": 10000
-        },
-        {
-            "name": "Magic Ore",
-            "image_url": "https://www.curseofaros.wiki/images/e/e8/Magic_Ore_m.png",
-            "price": 4500
-        },
-        
-        {
-            "name": "Bronze Bar",
-            "image_url": "https://www.curseofaros.wiki/images/f/f4/Bronze_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Iron Bar",
-            "image_url": "https://www.curseofaros.wiki/images/6/63/Iron_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Steel Bar",
-            "image_url": "https://www.curseofaros.wiki/images/0/0e/Steel_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Crimsteel Bar",
-            "image_url": "https://www.curseofaros.wiki/images/b/b1/Crimsteel_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Silver Bar",
-            "image_url": "https://www.curseofaros.wiki/images/e/e3/Silver_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Nugget",
-            "image_url": "https://www.curseofaros.wiki/images/1/14/Gold_Nugget_m.png",
-            "price": 0
-        },
-        {
-            "name": "Gold Bar",
-            "image_url": "https://www.curseofaros.wiki/images/3/3c/Gold_Bar_m.png",
-            "price": 0
-        },
-        {
-            "name": "Mythan Bar",
-            "image_url": "https://www.curseofaros.wiki/images/e/e2/Mythan_Bar_m.png",
-            "price": 110000
-        },
-        {
-            "name": "Cobalt Bar",
-            "image_url": "https://www.curseofaros.wiki/images/3/3b/Cobalt_Bar_m.png",
-            "price": 130000
-        },
-        {
-            "name": "Varaxite Bar",
-            "image_url": "https://www.curseofaros.wiki/images/3/35/Varaxite_Bar_m.png",
-            "price": 150000
-        },
-        {
-            "name": "Magic Bar",
-            "image_url": "https://www.curseofaros.wiki/images/6/68/Magic_Bar_m.png",
-            "price": 60000
-        }
+        {"name":"Tin Ore","image_url":"https://www.curseofaros.wiki/images/c/ca/Tin_Ore_m.png","price":0},
+        {"name":"Copper Ore","image_url":"https://www.curseofaros.wiki/images/7/76/Copper_Ore_m.png","price":0},
+        {"name":"Iron Ore","image_url":"https://www.curseofaros.wiki/images/f/f7/Iron_Ore_m.png","price":0},
+        {"name":"Salt","image_url":"https://www.curseofaros.wiki/images/6/6c/Salt_m.png","price":0},
+        {"name":"Coal","image_url":"https://www.curseofaros.wiki/images/1/13/Coal_m.png","price":3500},
+        {"name":"Silver Ore","image_url":"https://www.curseofaros.wiki/images/f/f0/Silver_Ore_m.png","price":0},
+        {"name":"Crimsteel Ore","image_url":"https://www.curseofaros.wiki/images/9/90/Crimsteel_Ore_m.png","price":0},
+        {"name":"Gold Ore","image_url":"https://www.curseofaros.wiki/images/f/fc/Gold_Ore_m.png","price":0},
+        {"name":"Pink salt","image_url":"https://www.curseofaros.wiki/images/0/02/Pink_salt_m.png","price":7000},
+        {"name":"Mythan Ore","image_url":"https://www.curseofaros.wiki/images/2/26/Mythan_Ore_m.png","price":10000},
+        {"name":"Sandstone","image_url":"https://www.curseofaros.wiki/images/a/ab/Sandstone_m.png","price":8000},
+        {"name":"Cobalt Ore","image_url":"https://www.curseofaros.wiki/images/e/e1/Cobalt_Ore_m.png","price":12000},
+        {"name":"Varaxium","image_url":"https://www.curseofaros.wiki/images/0/0f/Varaxium_m.png","price":13000},
+        {"name":"Black Salt","image_url":"https://www.curseofaros.wiki/images/9/94/Black_Salt_m.png","price":10000},
+        {"name":"Magic Ore","image_url":"https://www.curseofaros.wiki/images/e/e8/Magic_Ore_m.png","price":4500},
+        {"name":"Bronze Bar","image_url":"https://www.curseofaros.wiki/images/f/f4/Bronze_Bar_m.png","price":0},
+        {"name":"Iron Bar","image_url":"https://www.curseofaros.wiki/images/6/63/Iron_Bar_m.png","price":0},
+        {"name":"Steel Bar","image_url":"https://www.curseofaros.wiki/images/0/0e/Steel_Bar_m.png","price":0},
+        {"name":"Crimsteel Bar","image_url":"https://www.curseofaros.wiki/images/b/b1/Crimsteel_Bar_m.png","price":0},
+        {"name":"Silver Bar","image_url":"https://www.curseofaros.wiki/images/e/e3/Silver_Bar_m.png","price":0},
+        {"name":"Gold Nugget","image_url":"https://www.curseofaros.wiki/images/1/14/Gold_Nugget_m.png","price":0},
+        {"name":"Gold Bar","image_url":"https://www.curseofaros.wiki/images/3/3c/Gold_Bar_m.png","price":0},
+        {"name":"Mythan Bar","image_url":"https://www.curseofaros.wiki/images/e/e2/Mythan_Bar_m.png","price":110000},
+        {"name":"Cobalt Bar","image_url":"https://www.curseofaros.wiki/images/3/3b/Cobalt_Bar_m.png","price":130000},
+        {"name":"Varaxite Bar","image_url":"https://www.curseofaros.wiki/images/3/35/Varaxite_Bar_m.png","price":150000},
+        {"name":"Magic Bar","image_url":"https://www.curseofaros.wiki/images/6/68/Magic_Bar_m.png","price":60000},
+        {"name":"Papper","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Paper.gif","price":0},
+        {"name":"Earthworm","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Earthworm.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Iceworm","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Iceworm.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Corpseworm","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Corpseworm.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Toxic Worm","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Toxic Worm.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Sandworm","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Sandworm.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Beetle","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Beetle.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Grasshopper","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Grasshopper.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Wasp","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Wasp.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Scallop","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Scallop.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Crab","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Crab.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Bass bait","image_url":"https://chends888.github.io/coa-calculator/images/Fishing-Baits/Bass bait.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Anchovies","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Anchovies.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Goldfish","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Goldfish.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Mackerel","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Mackerel.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Squid","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Squid.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Sardine","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Sardine.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Eel","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Eel.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Anglerfish","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Anglerfish.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Trout","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Trout.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Jellyfish","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Jellyfish.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Bass","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Bass.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Herringbone","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Herringbone.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Tuna","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Tuna.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Lobster","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Lobster.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Sea Turtle","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Sea Turtle.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Manta Ray","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Manta Ray.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Shark","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Shark.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Orca","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Orca.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Giant Squid","image_url":"https://chends888.github.io/coa-calculator/images/Fishing/Giant Squid.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Pine Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Pine Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Dead Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Dead Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Birch Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Birch Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Applewood","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Applewood.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Willow Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Willow Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Oak Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Oak Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Chestnut Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Chestnut Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Maple Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Maple Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Olive Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Olive Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Magic Logs","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Magic Logs.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Palm Wood","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Palm Wood.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Pearwood","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Pearwood.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Lime Wood","image_url":"https://chends888.github.io/coa-calculator/images/Woodcutting/Lime Wood.gif","price":0,"last_update":"28/03/2026"},
+        {"name":"Book","image_url":"https://chends888.github.io/coa-calculator/images/Spellbinding/Book.gif","price":0,"last_update":"28/03/2026"}
     ],
-    "Others": []
+    "Others": [
+        {"name":"Golemite Artifact","image_url":"https://www.curseofaros.wiki/images/6/6c/Golemite_Artifact_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Golemite Orb","image_url":"https://www.curseofaros.wiki/images/4/49/Golemite_Orb_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Golemite Shard","image_url":"https://www.curseofaros.wiki/images/b/b3/Golemite_Shard_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Eye of Golemite","image_url":"https://www.curseofaros.wiki/images/5/55/Eye_of_Golemite_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Dragon Scale","image_url":"https://www.curseofaros.wiki/images/d/da/Dragon_Scale_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Dragon Claw","image_url":"https://www.curseofaros.wiki/images/c/ce/Dragon_Claw_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Dragon Horn","image_url":"https://www.curseofaros.wiki/images/3/36/Dragon_Horn_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Dragon Eye","image_url":"https://www.curseofaros.wiki/images/7/74/Dragon_Eye_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Mummy Soul","image_url":"https://www.curseofaros.wiki/images/6/63/Mummy_Soul_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Mummy Bandage","image_url":"https://www.curseofaros.wiki/images/d/d2/Mummy_Bandage_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Balance Fragment","image_url":"https://www.curseofaros.wiki/images/4/49/Balance_Fragment_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Fang of Corruption","image_url":"https://www.curseofaros.wiki/images/9/9b/Fang_of_Corruption_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Fang of Torment","image_url":"https://www.curseofaros.wiki/images/c/c3/Fang_of_Torment_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Fang of Rage","image_url":"https://www.curseofaros.wiki/images/8/87/Fang_of_Rage_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Fang of Disdain","image_url":"https://www.curseofaros.wiki/images/7/79/Fang_of_Disdain_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Leg of Nydarax","image_url":"https://www.curseofaros.wiki/images/8/8a/Leg_of_Nydarax_m.png","price":0,"last_update":"28/3/2026"},
+        {"name":"Eye of Nydarax","image_url":"https://www.curseofaros.wiki/images/c/c3/Eye_of_Nydarax_m.png","price":0,"last_update":"28/3/2026"}
+    ]
 }
