@@ -211,7 +211,7 @@
         {
             "name": "Ancient Pickaxe",
             "image_url": "https://www.curseofaros.wiki/images/c/ce/Ancient_Pickaxe_m.png",
-            "price": 0
+            "price": 22000000
         },
         {
             "name": "Bronze Axe",
@@ -257,7 +257,7 @@
         {
             "name": "Ancient Axe",
             "image_url": "https://www.curseofaros.wiki/images/7/7b/Ancient_Axe_m.png",
-            "price": 0
+            "price": 22000000
         },
         {
             "name": "Bronze Rod",
@@ -328,7 +328,7 @@
         {
             "name": "Ancient Spade",
             "image_url": "https://www.curseofaros.wiki/images/d/d8/Ancient_Spade_m.png",
-            "price": 0
+            "price": 1500000
         },
         {
             "name": "Bronze Cap",
@@ -849,7 +849,7 @@
         {
             "name": "Bryomera Secateurs",
             "image_url": "https://www.curseofaros.wiki/images/a/a8/Bryomera_Secateurs_m.png",
-            "price": 0
+            "price": 90000000
         }
     ],
     "Consumables": [
@@ -861,28 +861,14 @@
         {
             "name": "Health flask",
             "image_url": "https://www.curseofaros.wiki/images/d/de/Health_flask_m.png",
-            "price": 0
+            "price": 300
         },
         {
             "name": "Flask of Life",
             "image_url": "https://www.curseofaros.wiki/images/b/bb/Flask_of_Life_m.png",
-            "price": 0
+            "price": 600
         },
-        {
-            "name": "Small XP Potion",
-            "image_url": "https://www.curseofaros.wiki/images/5/5a/Small_XP_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Medium XP Potion",
-            "image_url": "https://www.curseofaros.wiki/images/5/5a/Medium_XP_Potion_m.png",
-            "price": 0
-        },
-        {
-            "name": "Large XP Potion",
-            "image_url": "https://www.curseofaros.wiki/images/4/48/Large_XP_Potion_m.png",
-            "price": 0
-        },
+        
         {
             "name": "Anti-Poison Serum",
             "image_url": "https://www.curseofaros.wiki/images/e/e1/Anti-Poison_Serum_m.png",
@@ -1036,7 +1022,7 @@
         {
             "name": "Arcanist's Wrath",
             "image_url": "https://www.curseofaros.wiki/images/b/b4/Arcanist%27s_Wrath_m.png",
-            "price": 0
+            "price": 20000
         },
         {
             "name": "Forsworn Focus",
@@ -1071,7 +1057,7 @@
         {
             "name": "Assassin's Tonic",
             "image_url": "https://www.curseofaros.wiki/images/c/c6/Assassin%27s_Tonic_m.png",
-            "price": 0
+            "price": 40000
         },
         {
             "name": "Auric Bloom",
@@ -1086,12 +1072,12 @@
         {
             "name": "Golem's Power",
             "image_url": "https://www.curseofaros.wiki/images/e/ee/Golem%27s_Power_m.png",
-            "price": 0
+            "price": 40000
         },
         {
             "name": "Guardian's Bulwark",
             "image_url": "https://www.curseofaros.wiki/images/a/a8/Guardian%27s_Bulwark_m.png",
-            "price": 0
+            "price": 40000
         },
         {
             "name": "Quietus",
@@ -1116,7 +1102,7 @@
         {
             "name": "Dance of the Undead",
             "image_url": "https://www.curseofaros.wiki/images/6/6e/Dance_of_the_Undead_m.png",
-            "price": 0
+            "price": 80000
         },
         {
             "name": "Gilded Transmutation",
@@ -1131,7 +1117,7 @@
         {
             "name": "Distilled Extract",
             "image_url": "https://www.curseofaros.wiki/images/0/00/Distilled_Extract_m.png",
-            "price": 0
+            "price": 80000
         },
         {
             "name": "Provocation Potion",
@@ -1141,12 +1127,12 @@
         {
             "name": "Strigoi's Covenant",
             "image_url": "https://www.curseofaros.wiki/images/2/22/Strigoi%27s_Covenant_m.png",
-            "price": 0
+            "price": 70000
         },
         {
             "name": "Death's Rally",
             "image_url": "https://www.curseofaros.wiki/images/5/54/Death%27s_Rally_m.png",
-            "price": 0
+            "price": 75000
         },
         {
             "name": "Scroll of Rebirth",
@@ -1161,12 +1147,12 @@
         {
             "name": "Candy",
             "image_url": "https://www.curseofaros.wiki/images/a/af/Candy_m.png",
-            "price": 0
+            "price": 225000
         },
         {
             "name": "Lollipop",
             "image_url": "https://www.curseofaros.wiki/images/d/df/Lollipop_m.png",
-            "price": 0
+            "price": 1150000
         },
         {
             "name": "Sugar Brew",
@@ -1181,7 +1167,7 @@
         {
             "name": "Name Tag",
             "image_url": "https://www.curseofaros.wiki/images/b/b3/Name_Tag_m.png",
-            "price": 0
+            "price": 57500000
         },
         {
             "name": "Pet Name Tag",
@@ -1211,22 +1197,22 @@
         {
             "name": "Relic of Power",
             "image_url": "https://www.curseofaros.wiki/images/e/e2/Relic_of_Power_m.png",
-            "price": 0
+            "price": 6000
         },
         {
             "name": "Relic of Nature",
             "image_url": "https://www.curseofaros.wiki/images/3/3e/Relic_of_Nature_m.png",
-            "price": 0
+            "price": 5000
         },
         {
             "name": "Relic of Fire",
             "image_url": "https://www.curseofaros.wiki/images/c/c1/Relic_of_Fire_m.png",
-            "price": 0
+            "price": 4000
         },
         {
             "name": "Relic of Damage",
             "image_url": "https://www.curseofaros.wiki/images/7/70/Relic_of_Damage_m.png",
-            "price": 0
+            "price": 8000
         },
         {
             "name": "Relic of Leeching",
@@ -1236,17 +1222,17 @@
         {
             "name": "Relic of Experience",
             "image_url": "https://www.curseofaros.wiki/images/a/ad/Relic_of_Experience_m.png",
-            "price": 0
+            "price": 15000
         },
         {
             "name": "Cursed Relic",
             "image_url": "https://www.curseofaros.wiki/images/1/1a/Cursed_Relic_m.png",
-            "price": 0
+            "price": 3000
         },
         {
             "name": "Ice Relic",
             "image_url": "https://www.curseofaros.wiki/images/b/b5/Ice_Relic_m.png",
-            "price": 0
+            "price": 4000
         },
         {
             "name": "Relic of Efficiency",
@@ -1423,7 +1409,7 @@
         {
             "name": "Coal",
             "image_url": "https://www.curseofaros.wiki/images/1/13/Coal_m.png",
-            "price": 0
+            "price": 3500
         },
         {
             "name": "Silver Ore",
@@ -1443,37 +1429,37 @@
         {
             "name": "Pink salt",
             "image_url": "https://www.curseofaros.wiki/images/0/02/Pink_salt_m.png",
-            "price": 0
+            "price": 7000
         },
         {
             "name": "Mythan Ore",
             "image_url": "https://www.curseofaros.wiki/images/2/26/Mythan_Ore_m.png",
-            "price": 0
+            "price": 10000
         },
         {
             "name": "Sandstone",
             "image_url": "https://www.curseofaros.wiki/images/a/ab/Sandstone_m.png",
-            "price": 0
+            "price": 8000
         },
         {
             "name": "Cobalt Ore",
             "image_url": "https://www.curseofaros.wiki/images/e/e1/Cobalt_Ore_m.png",
-            "price": 0
+            "price": 12000
         },
         {
             "name": "Varaxium",
             "image_url": "https://www.curseofaros.wiki/images/0/0f/Varaxium_m.png",
-            "price": 0
+            "price": 13000
         },
         {
             "name": "Black Salt",
             "image_url": "https://www.curseofaros.wiki/images/9/94/Black_Salt_m.png",
-            "price": 0
+            "price": 10000
         },
         {
             "name": "Magic Ore",
             "image_url": "https://www.curseofaros.wiki/images/e/e8/Magic_Ore_m.png",
-            "price": 0
+            "price": 4500
         },
         
         {
@@ -1514,22 +1500,22 @@
         {
             "name": "Mythan Bar",
             "image_url": "https://www.curseofaros.wiki/images/e/e2/Mythan_Bar_m.png",
-            "price": 0
+            "price": 110000
         },
         {
             "name": "Cobalt Bar",
             "image_url": "https://www.curseofaros.wiki/images/3/3b/Cobalt_Bar_m.png",
-            "price": 0
+            "price": 130000
         },
         {
             "name": "Varaxite Bar",
             "image_url": "https://www.curseofaros.wiki/images/3/35/Varaxite_Bar_m.png",
-            "price": 0
+            "price": 150000
         },
         {
             "name": "Magic Bar",
             "image_url": "https://www.curseofaros.wiki/images/6/68/Magic_Bar_m.png",
-            "price": 0
+            "price": 60000
         }
     ],
     "Others": []
