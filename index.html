@@ -3,107 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pasar CoA - Merchant Pro (Paginated)</title>
+    <title>Merchant CoA Pro</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
                 extend: {
                     colors: {
-                        darkBg: '#111827',
-                        cardBg: '#1f2937',
+                        darkBg: '#0b0f1a',
+                        cardBg: '#161b2a',
                         accent: '#8b5cf6',
-                        textMain: '#e5e7eb',
-                        textMuted: '#9ca3af',
+                        priceGreen: '#4ade80',
                     }
                 }
             }
         }
     </script>
     <style>
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: #111827; }
-        ::-webkit-scrollbar-thumb { background: #4b5563; border-radius: 4px; }
-        .sidebar-transition { transition: transform 0.3s ease-in-out; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 10px; }
+        .glass { background: rgba(22, 27, 42, 0.8); backdrop-filter: blur(10px); }
     </style>
 </head>
-<body class="bg-darkBg text-textMain min-h-screen font-sans overflow-x-hidden">
+<body class="bg-darkBg text-gray-200 min-h-screen pb-20">
 
-    <div id="sidebar" class="fixed inset-y-0 left-0 w-64 bg-cardBg sidebar-transition -translate-x-full z-50 shadow-2xl border-r border-gray-700">
-        <div class="p-6">
-            <div class="flex justify-between items-center mb-8">
-                <h2 class="text-xl font-bold text-accent italic">Kategori</h2>
-                <button onclick="toggleMenu()" class="text-textMuted hover:text-white">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-                </button>
-            </div>
-            <nav class="space-y-2" id="categoryNav"></nav>
-        </div>
-    </div>
-
-    <div id="overlay" onclick="toggleMenu()" class="fixed inset-0 bg-black/60 hidden z-40 backdrop-blur-sm"></div>
-
-    <nav class="bg-cardBg border-b border-gray-700 sticky top-0 z-30">
-        <div class="max-w-7xl mx-auto px-4 py-4 flex items-center gap-4">
-            <button onclick="toggleMenu()" class="p-2 hover:bg-gray-700 rounded-xl text-accent transition-colors">
-                <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+    <nav class="sticky top-0 z-50 glass border-b border-gray-800 px-4 py-3">
+        <div class="max-w-6xl mx-auto flex items-center justify-between gap-4">
+            <button onclick="toggleMenu()" class="p-2 bg-gray-800 rounded-lg text-accent">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
             </button>
-            <h1 class="text-xl md:text-2xl font-bold tracking-tight text-white flex-shrink-0">
-                Pasar <span id="categoryTitle" class="text-accent italic">Equipment</span>
-            </h1>
-            
-            <div class="flex-grow relative max-w-md ml-auto">
-                <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-500">
-                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-                </span>
+            <div class="flex-grow max-w-xl relative">
                 <input type="text" id="searchInput" oninput="handleSearch()" placeholder="Cari item..." 
-                    class="w-full pl-10 pr-4 py-2 bg-darkBg border border-gray-600 rounded-xl text-sm focus:ring-2 focus:ring-accent outline-none transition-all">
+                    class="w-full bg-gray-900/50 border border-gray-700 rounded-full px-5 py-2 text-sm focus:ring-2 focus:ring-accent outline-none">
+            </div>
+            <div class="hidden md:block text-right">
+                <p class="text-[10px] text-gray-500 uppercase font-bold">Global Update</p>
+                <p id="globalUpdate" class="text-xs text-accent">-</p>
             </div>
         </div>
     </nav>
 
-    <main class="max-w-7xl mx-auto px-4 py-8">
-        
-        <div id="statusInfo" class="mb-6 text-sm text-textMuted flex justify-between items-center bg-cardBg/50 p-3 rounded-lg border border-gray-800">
-            <span>Total: <b id="totalCount" class="text-white">0</b> item</span>
-            <span id="pageIndicator" class="font-medium text-accent">Halaman 1</span>
+    <div id="sidebar" class="fixed inset-y-0 left-0 w-64 bg-cardBg z-[60] transform -translate-x-full transition-transform duration-300 border-r border-gray-800 p-6">
+        <div class="flex justify-between items-center mb-8">
+            <h2 class="text-xl font-bold text-white italic">Kategori</h2>
+            <button onclick="toggleMenu()" class="text-gray-500">&times;</button>
         </div>
+        <nav id="categoryNav" class="space-y-2"></nav>
+    </div>
+    <div id="overlay" onclick="toggleMenu()" class="fixed inset-0 bg-black/60 hidden z-50"></div>
 
-        <div id="itemGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 md:gap-6"></div>
+    <main class="max-w-6xl mx-auto px-4 mt-8">
+        <header class="mb-6 flex justify-between items-end">
+            <h1 id="categoryTitle" class="text-2xl font-extrabold text-white tracking-tight uppercase italic">Equipment</h1>
+            <p class="text-xs text-gray-500"><span id="itemCount" class="text-white font-bold">0</span> Items found</p>
+        </header>
 
-        <div id="pagination" class="mt-12 flex justify-center items-center gap-4">
-            <button id="prevBtn" onclick="changePage(-1)" class="px-6 py-2 bg-gray-800 border border-gray-700 rounded-xl hover:bg-gray-700 disabled:opacity-30 disabled:cursor-not-allowed transition">
-                Prev
-            </button>
-            <span id="pageNumbers" class="text-sm font-bold text-gray-400">1 / 1</span>
-            <button id="nextBtn" onclick="changePage(1)" class="px-6 py-2 bg-gray-800 border border-gray-700 rounded-xl hover:bg-gray-700 disabled:opacity-30 disabled:cursor-not-allowed transition">
-                Next
-            </button>
-        </div>
+        <div id="itemGrid" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+            </div>
 
-        <div id="emptyState" class="hidden flex flex-col items-center justify-center py-20 text-textMuted">
-            <p>Item tidak ditemukan.</p>
+        <div id="pagination" class="mt-12 flex justify-center items-center gap-3">
+            <button id="prevBtn" onclick="changePage(-1)" class="p-2 bg-gray-800 rounded-lg disabled:opacity-20">&larr;</button>
+            <div id="pageDots" class="flex gap-1"></div>
+            <button id="nextBtn" onclick="changePage(1)" class="p-2 bg-gray-800 rounded-lg disabled:opacity-20">&rarr;</button>
         </div>
     </main>
 
     <script>
-        let database = {};
-        let currentCategory = "Equipment";
-        let filteredItems = [];
-        let currentPage = 1;
-        const itemsPerPage = 20;
+        let db = {};
+        let currentCat = "Equipment";
+        let filteredData = [];
+        let page = 1;
+        const perPage = 20;
 
         async function init() {
             try {
-                // Mengambil data dari JSON
-                const response = await fetch('coa_items_v2.json');
-                database = await response.json();
+                // Mengambil database terbaru
+                const res = await fetch('coa_items_v2_updated.json');
+                db = await res.json();
                 
-                setupCategoryNav();
-                updateActiveList();
-            } catch (err) {
-                console.error("Gagal load JSON:", err);
-            }
+                // Set Global Update dari item pertama yang ada
+                const firstKey = Object.keys(db)[0];
+                if(db[firstKey][0]) document.getElementById('globalUpdate').innerText = db[firstKey][0].last_update;
+
+                setupNav();
+                updateList();
+            } catch (e) { console.error(e); }
         }
 
         function toggleMenu() {
@@ -111,111 +97,78 @@
             document.getElementById('overlay').classList.toggle('hidden');
         }
 
-        function setupCategoryNav() {
+        function setupNav() {
             const nav = document.getElementById('categoryNav');
-            nav.innerHTML = '';
-            const categories = ["All", ...Object.keys(database)];
-            
-            categories.forEach(cat => {
-                const btn = document.createElement('button');
-                btn.className = `w-full text-left px-4 py-3 rounded-xl transition font-medium ${cat === currentCategory ? 'bg-accent text-white shadow-lg' : 'hover:bg-gray-700 text-textMuted'}`;
-                btn.innerText = cat;
-                btn.onclick = () => {
-                    currentCategory = cat;
-                    document.getElementById('categoryTitle').innerText = cat;
-                    document.getElementById('searchInput').value = '';
-                    currentPage = 1;
-                    setupCategoryNav();
-                    updateActiveList();
-                    toggleMenu();
-                };
-                nav.appendChild(btn);
-            });
+            const cats = ["All", ...Object.keys(db)];
+            nav.innerHTML = cats.map(c => `
+                <button onclick="setCat('${c}')" class="w-full text-left px-4 py-3 rounded-xl text-sm font-semibold transition ${c === currentCat ? 'bg-accent text-white shadow-lg shadow-accent/20' : 'text-gray-500 hover:bg-gray-800'}">${c}</button>
+            `).join('');
+        }
+
+        function setCat(c) {
+            currentCat = c;
+            page = 1;
+            document.getElementById('categoryTitle').innerText = c;
+            toggleMenu();
+            setupNav();
+            updateList();
         }
 
         function handleSearch() {
-            currentPage = 1;
-            updateActiveList();
+            page = 1;
+            updateList();
         }
 
-        function updateActiveList() {
-            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-            let items = [];
+        function updateList() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            let all = [];
+            if(currentCat === "All") Object.values(db).forEach(arr => all = [...all, ...arr]);
+            else all = db[currentCat] || [];
 
-            if (currentCategory === "All") {
-                Object.values(database).forEach(list => items = [...items, ...list]);
-            } else {
-                items = database[currentCategory] || [];
-            }
-
-            if (searchTerm) {
-                items = items.filter(i => i.name.toLowerCase().includes(searchTerm));
-            }
-
-            filteredItems = items;
-            renderGrid();
+            filteredData = all.filter(i => i.name.toLowerCase().includes(query));
+            render();
         }
 
-        function renderGrid() {
+        function render() {
             const grid = document.getElementById('itemGrid');
-            const empty = document.getElementById('emptyState');
-            const totalLabel = document.getElementById('totalCount');
+            const start = (page - 1) * perPage;
+            const items = filteredData.slice(start, start + perPage);
             
-            grid.innerHTML = '';
-            totalLabel.innerText = filteredItems.length;
-
-            if (filteredItems.length === 0) {
-                empty.classList.remove('hidden');
-                document.getElementById('pagination').classList.add('hidden');
-                return;
-            }
-
-            empty.classList.add('hidden');
-            document.getElementById('pagination').classList.remove('hidden');
-
-            // Kalkulasi Slicing untuk Halaman
-            const startIndex = (currentPage - 1) * itemsPerPage;
-            const endIndex = startIndex + itemsPerPage;
-            const pageItems = filteredItems.slice(startIndex, endIndex);
-
-            pageItems.forEach(item => {
-                // Mengikuti data price dari JSON
-                const card = `
-                    <div class="bg-cardBg p-4 rounded-2xl border border-gray-800 hover:border-accent transition-all duration-300 group shadow-lg flex flex-col items-center">
-                        <div class="w-16 h-16 mb-3 bg-darkBg rounded-xl p-2 flex items-center justify-center border border-gray-700">
-                            <img src="${item.image_url}" alt="${item.name}" class="max-w-full max-h-full object-contain">
-                        </div>
-                        <h3 class="text-xs font-bold text-center h-8 overflow-hidden line-clamp-2 text-white mb-1 leading-tight">
-                            ${item.name}
-                        </h3>
-                        <div class="w-full text-center">
-                            <p class="text-[10px] text-textMuted uppercase tracking-widest font-bold">Price</p>
-                            <p class="font-black text-sm text-green-400">
-                                ${item.price.toLocaleString()} G
-                            </p>
-                        </div>
+            document.getElementById('itemCount').innerText = filteredData.length;
+            
+            grid.innerHTML = items.map(i => `
+                <div class="bg-cardBg border border-gray-800 rounded-2xl p-4 flex flex-col items-center text-center transition-all hover:border-accent">
+                    <img src="${i.image_url}" class="w-14 h-14 object-contain mb-3 drop-shadow-[0_0_8px_rgba(139,92,246,0.3)]">
+                    <h3 class="text-[11px] font-extrabold text-white leading-tight uppercase h-7 overflow-hidden">${i.name}</h3>
+                    
+                    <div class="mt-3 w-full bg-black/30 rounded-xl py-2 px-1">
+                        <p class="text-[10px] text-gray-500 font-bold uppercase tracking-tighter">Price</p>
+                        <p class="text-xs font-black text-priceGreen">
+                            ${(i.price_min && i.price_max) ? 
+                                `${i.price_min.toLocaleString()} - ${i.price_max.toLocaleString()}` : 
+                                i.price_min.toLocaleString()} G
+                        </p>
+                        <p class="text-[9px] text-gray-400 italic">/ ${i.unit || 'each'}</p>
                     </div>
-                `;
-                grid.innerHTML += card;
-            });
+                    
+                    <p class="mt-3 text-[8px] text-gray-600 font-bold uppercase">Update: ${i.last_update || '-'}</p>
+                </div>
+            `).join('');
 
-            updatePaginationUI();
+            updatePagination();
         }
 
-        function updatePaginationUI() {
-            const totalPages = Math.ceil(filteredItems.length / itemsPerPage) || 1;
-            document.getElementById('pageNumbers').innerText = `${currentPage} / ${totalPages}`;
-            document.getElementById('pageIndicator').innerText = `Halaman ${currentPage}`;
-            
-            document.getElementById('prevBtn').disabled = (currentPage === 1);
-            document.getElementById('nextBtn').disabled = (currentPage === totalPages);
-            
-            window.scrollTo({ top: 0, behavior: 'smooth' });
+        function updatePagination() {
+            const total = Math.ceil(filteredData.length / perPage);
+            document.getElementById('prevBtn').disabled = page === 1;
+            document.getElementById('nextBtn').disabled = page === total || total === 0;
+            document.getElementById('pageDots').innerHTML = `<span class="text-xs font-bold text-accent">${page} / ${total || 1}</span>`;
         }
 
         function changePage(step) {
-            currentPage += step;
-            renderGrid();
+            page += step;
+            render();
+            window.scrollTo({top: 0, behavior: 'smooth'});
         }
 
         window.onload = init;
