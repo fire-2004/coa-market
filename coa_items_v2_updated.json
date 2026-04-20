@@ -106,7 +106,7 @@
         {"name":"Nightspun Boots","image_url":"https://www.curseofaros.wiki/images/5/5c/Nightspun_Boots_m.png","price_min":200000,"price_max":0,"unit":"each","last_update":"29/03/2026"},
         {"name":"Nightspun Ring","image_url":"https://www.curseofaros.wiki/images/4/4c/Nightspun_Ring_m.png","price_min":200000,"price_max":0,"unit":"each","last_update":"29/03/2026"},
         {"name":"Furzerker","image_url":"https://fire-2004.github.io/coa-market/assets/furzerker.png","price_min":300000,"price_max":500000,"unit":"each","last_update":"20/04/2026"},
-        {"name":"Furring","image_url":"https://fire-2004.github.io/coa-market/assets/furring.png","price_min":300000,"price_max":500000,"unit":"each","last_update":"20/04/2026"}
+        {"name":"Furring","image_url":"https://fire-2004.github.io/coa-market/assets/furring.png","price_min":300000,"price_max":500000,"unit":"each","last_update":"20/04/2026"},
         {"name":"Off-hand Dagger","image_url":"https://fire-2004.github.io/coa-market/assets/offhand_dagger.png","price_min":300000,"price_max":500000,"unit":"each","last_update":"20/04/2026"}
     ],
     "Potions": [
